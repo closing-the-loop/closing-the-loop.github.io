@@ -14,8 +14,8 @@
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Sun, 04 Jul 2021 14:03:40 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/61f23cb0/podcast/rss" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[John]]></author>
-		<copyright><![CDATA[John]]></copyright>
+		<author><![CDATA[John Vallis]]></author>
+		<copyright><![CDATA[John Vallis]]></copyright>
 		<language><![CDATA[en]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>John</itunes:author>
@@ -51,7 +51,7 @@
 ]]></description>
 			<link>https://anchor.fm/closingtheloop/episodes/01---Gigi-Introduction-to-Closing-the-Loop-e13sdmm</link>
 			<guid isPermaLink="false">71411cab-bf22-47b4-9147-67397b254b34</guid>
-			<dc:creator><![CDATA[John]]></dc:creator>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Sun, 04 Jul 2021 11:58:32 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/36631702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-3%2F7e9dc231-eac8-adb5-6faa-5ee5ed8fa441.mp3" length="77701040" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;For the inaugural episode of Closing the Loop, it is a genuine honor to introduce you to a highly respected bitcoiner and dear friend of mine, who goes by the name of Gigi.&lt;/p&gt;
