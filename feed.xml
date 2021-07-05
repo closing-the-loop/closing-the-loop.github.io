@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+			<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="100"/>
+		</podcast:value>
+		<title><![CDATA[Closing the Loop]]></title>
+		<description><![CDATA[Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!]]></description>
+		<link>https://www.seetee.io/</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg</url>
+			<title>Closing the Loop</title>
+			<link>https://www.seetee.io/</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sun, 04 Jul 2021 14:03:40 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/61f23cb0/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[John]]></author>
+		<copyright><![CDATA[John]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>John</itunes:author>
+		<itunes:summary>Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>John</itunes:name>
+			<itunes:email>podcasts60+61f23cb0@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg"/>
+		<item>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
+				<podcast:valueRecipient name="Gigi (Guest)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="50"/>
+			</podcast:value>
+			<title><![CDATA[#01 - Gigi: Introduction to Closing the Loop]]></title>
+			<description><![CDATA[<p>For the inaugural episode of Closing the Loop, it is a genuine honor to introduce you to a highly respected bitcoiner and dear friend of mine, who goes by the name of Gigi.</p>
+<p>Gigi is a father, educator, meme artist, author, philosopher, and someone who is fully committed to serving the bitcoin project and seeing it succeed.</p>
+<p>He curates the website <a href="https://bitcoin-resources.com/" target="_blank">bitcoin-resources.com</a>, where much of the top bitcoin content can be found for anyone seeking to get up to speed.</p>
+<p>His first book, <a href="https://21lessons.com/" target="_blank">21 Lessons</a>, is a fascinating and rich exploration of the many things he has learned from falling down the proverbial 'bitcoin rabbit hole.'</p>
+<p>His forthcoming book, <a href="http://21waysbook.com/" target="_blank">21 Ways</a>, is a highly anticipated work from someone who has come to be considered amongst the most appreciated thinkers in the bitcoin space for the incredible depth of his understanding of the subject and his ability to articulate it in such a digestible yet profound way.</p>
+<p>Gigi has committed his mind, body, and soul to bitcoin. As one of my closest friends, I couldn't be happier for the success his dedication and passion have manifested, culminating most recently in his position as lead developer at Seetee.</p>
+<p>In this conversation, we discuss what makes Bitcoin so special and some of the motivations behind and plans for this podcast series.</p>
+<p>Enjoy.</p>
+<p>--</p>
+<p>Connect with us:</p>
+<p>Website: <a href="https://www.seetee.io">https://www.seetee.io</a></p>
+<p>Seetee: <a href="https://twitter.com/Seetee_io">https://twitter.com/Seetee_io</a></p>
+<p>Gigi: <a href="https://twitter.com/dergigi">https://twitter.com/dergigi</a></p>
+<p>John: <a href="https://twitter.com/johnkvallis">https://twitter.com/johnkvallis</a></p>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/01---Gigi-Introduction-to-Closing-the-Loop-e13sdmm</link>
+			<guid isPermaLink="false">71411cab-bf22-47b4-9147-67397b254b34</guid>
+			<dc:creator><![CDATA[John]]></dc:creator>
+			<pubDate>Sun, 04 Jul 2021 11:58:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/36631702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-3%2F7e9dc231-eac8-adb5-6faa-5ee5ed8fa441.mp3" length="77701040" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;For the inaugural episode of Closing the Loop, it is a genuine honor to introduce you to a highly respected bitcoiner and dear friend of mine, who goes by the name of Gigi.&lt;/p&gt;
+&lt;p&gt;Gigi is a father, educator, meme artist, author, philosopher, and someone who is fully committed to serving the bitcoin project and seeing it succeed.&lt;/p&gt;
+&lt;p&gt;He curates the website &lt;a href=&quot;https://bitcoin-resources.com/&quot; target=&quot;_blank&quot;&gt;bitcoin-resources.com&lt;/a&gt;, where much of the top bitcoin content can be found for anyone seeking to get up to speed.&lt;/p&gt;
+&lt;p&gt;His first book, &lt;a href=&quot;https://21lessons.com/&quot; target=&quot;_blank&quot;&gt;21 Lessons&lt;/a&gt;, is a fascinating and rich exploration of the many things he has learned from falling down the proverbial &apos;bitcoin rabbit hole.&apos;&lt;/p&gt;
+&lt;p&gt;His forthcoming book, &lt;a href=&quot;http://21waysbook.com/&quot; target=&quot;_blank&quot;&gt;21 Ways&lt;/a&gt;, is a highly anticipated work from someone who has come to be considered amongst the most appreciated thinkers in the bitcoin space for the incredible depth of his understanding of the subject and his ability to articulate it in such a digestible yet profound way.&lt;/p&gt;
+&lt;p&gt;Gigi has committed his mind, body, and soul to bitcoin. As one of my closest friends, I couldn&apos;t be happier for the success his dedication and passion have manifested, culminating most recently in his position as lead developer at Seetee.&lt;/p&gt;
+&lt;p&gt;In this conversation, we discuss what makes Bitcoin so special and some of the motivations behind and plans for this podcast series.&lt;/p&gt;
+&lt;p&gt;Enjoy.&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;Connect with us:&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&quot;https://www.seetee.io&quot;&gt;https://www.seetee.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Seetee: &lt;a href=&quot;https://twitter.com/Seetee_io&quot;&gt;https://twitter.com/Seetee_io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gigi: &lt;a href=&quot;https://twitter.com/dergigi&quot;&gt;https://twitter.com/dergigi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;John: &lt;a href=&quot;https://twitter.com/johnkvallis&quot;&gt;https://twitter.com/johnkvallis&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4856</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1625330573561-ca596fa76cd35.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
