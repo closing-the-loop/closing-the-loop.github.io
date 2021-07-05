@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
 		<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-			<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="100"/>
+			<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
+			<podcast:valueRecipient name="Gigi (Guest)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="50"/>
 		</podcast:value>
 		<title><![CDATA[Closing the Loop]]></title>
 		<description><![CDATA[Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!]]></description>
