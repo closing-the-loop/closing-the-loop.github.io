@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
 		<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-			<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
-			<podcast:valueRecipient name="Gigi (Guest)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="50"/>
+			<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="33"/>
+			<podcast:valueRecipient name="Gigi (Guest)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="33"/>
+			<podcast:valueRecipient name="Paul Itoi (Guest)" type="node" address="03a9a8d953fe747d0dd94dd3c567ddc58451101e987e2d2bf7a4d1e10a2c89ff38" split="33"/>
 		</podcast:value>
 		<title><![CDATA[Closing the Loop]]></title>
 		<description><![CDATA[Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!]]></description>
@@ -13,27 +14,63 @@
 			<link>https://www.seetee.io/</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 04 Jul 2021 14:03:40 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jul 2021 20:32:08 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/61f23cb0/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[John Vallis]]></author>
 		<copyright><![CDATA[John Vallis]]></copyright>
 		<language><![CDATA[en]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>John</itunes:author>
+		<itunes:author>John Vallis</itunes:author>
 		<itunes:summary>Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
-			<itunes:name>John</itunes:name>
+			<itunes:name>John Vallis</itunes:name>
 			<itunes:email>podcasts60+61f23cb0@anchor.fm</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg"/>
 		<item>
-			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
-				<podcast:valueRecipient name="Gigi (Guest)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="50"/>
-			</podcast:value>
+			<title><![CDATA[#02 - Paul Itoi: Stakwork, Sphinx Chat, and the Bitcoin Lightning Economy]]></title>
+			<description><![CDATA[<p>Paul Itoi is the founder and CEO of Stakwork, and has been a tech entrepreneur since the mid nineties.</p>
+<p>In his 'spare' time, Paul is also one of the driving forces behind the open-source, bitcoin lightning-powered chat-app, called Sphinx.</p>
+<p>As Paul puts it, Stakwork pays the bills, but Sphinx just needed to exist, so they built it.</p>
+<p>Unlike most people, Paul's entry into bitcoin was not out of an interest in the investment case, or really anything to do with the 'base layer'. Instead, Paul was drawn in by his interest in the Lightning Network, a layer 2 solution devised to enhance bitcoin's scalability.</p>
+<p>As you'll hear in this discussion, the Lightning Network greatly expands the utility of bitcoin, and in Paul's view, will be the impetus for an explosion of innovation, that will lead to bitcoin's adoption by billions of people.</p>
+<p>One such innovation is the so-called 'podcasting 2.0' model, where you can stream sats to the content creators you are listening to. You determine how much you stream, and you only pay for as long as you listen. It's known as the 'value 4 value' model, and it is one method currently being explored to develop a more direct relationship between creator and consumer, mitigating the influence of platform censorship, and hopefully diminishing the reliance on the strictly ad-based models that dominate today.&nbsp;</p>
+<p>If you'd like to give it a try, and stream sats to Paul and I while listening to this episode, you can do so using the Sphinx Chat app, available for download on the App Store and on Desktop. Another great option for doing so is Breeze Wallet, which can be found in the App Store and on Google Play.&nbsp;</p>
+<p>For a full list of other apps to explore, visit newpodcastapps.com.</p>
+<p>Thanks in advance for the support, and enjoy the show!</p>
+<p>--</p>
+<p>If you'd like to learn more about Paul's work, visit <a href="http://stakwork.com/">stakwork.com</a> and https://sphinx.chat</p>
+<p>And connect with both Paul and John on twitter: @paulitoi (https://twitter.com/paulitoi) and @johnkvallis (https://twitter.com/johnkvallis)</p>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/02---Paul-Itoi-Stakwork--Sphinx-Chat--and-the-Bitcoin-Lightning-Economy-e14oei4</link>
+			<guid isPermaLink="false">82a9282f-8e92-42f5-8479-b44945ca49e3</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Tue, 20 Jul 2021 20:30:41 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/37550084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-20%2F3d4fa632-4333-5d76-bc68-1efb93802ecd.mp3" length="193646674" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Paul Itoi is the founder and CEO of Stakwork, and has been a tech entrepreneur since the mid nineties.&lt;/p&gt;
+&lt;p&gt;In his &apos;spare&apos; time, Paul is also one of the driving forces behind the open-source, bitcoin lightning-powered chat-app, called Sphinx.&lt;/p&gt;
+&lt;p&gt;As Paul puts it, Stakwork pays the bills, but Sphinx just needed to exist, so they built it.&lt;/p&gt;
+&lt;p&gt;Unlike most people, Paul&apos;s entry into bitcoin was not out of an interest in the investment case, or really anything to do with the &apos;base layer&apos;. Instead, Paul was drawn in by his interest in the Lightning Network, a layer 2 solution devised to enhance bitcoin&apos;s scalability.&lt;/p&gt;
+&lt;p&gt;As you&apos;ll hear in this discussion, the Lightning Network greatly expands the utility of bitcoin, and in Paul&apos;s view, will be the impetus for an explosion of innovation, that will lead to bitcoin&apos;s adoption by billions of people.&lt;/p&gt;
+&lt;p&gt;One such innovation is the so-called &apos;podcasting 2.0&apos; model, where you can stream sats to the content creators you are listening to. You determine how much you stream, and you only pay for as long as you listen. It&apos;s known as the &apos;value 4 value&apos; model, and it is one method currently being explored to develop a more direct relationship between creator and consumer, mitigating the influence of platform censorship, and hopefully diminishing the reliance on the strictly ad-based models that dominate today.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;If you&apos;d like to give it a try, and stream sats to Paul and I while listening to this episode, you can do so using the Sphinx Chat app, available for download on the App Store and on Desktop. Another great option for doing so is Breeze Wallet, which can be found in the App Store and on Google Play.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For a full list of other apps to explore, visit newpodcastapps.com.&lt;/p&gt;
+&lt;p&gt;Thanks in advance for the support, and enjoy the show!&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;If you&apos;d like to learn more about Paul&apos;s work, visit &lt;a href=&quot;http://stakwork.com/&quot;&gt;stakwork.com&lt;/a&gt; and https://sphinx.chat&lt;/p&gt;
+&lt;p&gt;And connect with both Paul and John on twitter: @paulitoi (https://twitter.com/paulitoi) and @johnkvallis (https://twitter.com/johnkvallis)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4841</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1626797311658-963de84603559.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#01 - Gigi: Introduction to Closing the Loop]]></title>
 			<description><![CDATA[<p>For the inaugural episode of Closing the Loop, it is a genuine honor to introduce you to a highly respected bitcoiner and dear friend of mine, who goes by the name of Gigi.</p>
 <p>Gigi is a father, educator, meme artist, author, philosopher, and someone who is fully committed to serving the bitcoin project and seeing it succeed.</p>
