@@ -32,6 +32,67 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg"/>
 		<item>
+			<title><![CDATA[#04 - Daniel Buchner: Decentralized Identity on Bitcoin w/ Microsoft's ION]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
+			</podcast:value>
+			<description><![CDATA[<p>Today's guest on Closing the Loop is Daniel Buchner.</p>
+<p>Daniel is the Senior Product Manager for Decentralized Identity at Microsoft, which in March of 2021 culminated in the launch of ION.</p>
+<p>ION is an open, public, permissionless Layer 2 Decentralized Identifier network, that runs atop the Bitcoin timechain.</p>
+<p>As life becomes increasingly digital, and concerns around privacy and control of personal data become increasingly important, we thought it would be interesting to speak with Daniel, to see how he and the team at ION are leveraging bitcoin's unique attributes, to build solutions that put control of data back where it belongs - in the hands of each individual.</p>
+<p>If you're listening to this show on a podcasting 2.0 app, thank you for supporting the emerging value 4 value publishing model (and if not, find an app here: https://podcastindex.org/apps).&nbsp;</p>
+<p>By using one of these apps, you'll be 'donating' to the Human Rights Foundation, as Daniel has graciously directed his streaming sats to that organization :)</p>
+<p>If you have any feedback on the show, or have any suggestions for future guests, please feel free to reach out and let me know.</p>
+<p>Enjoy!</p>
+<p><br></p>
+<p>--</p>
+<p><br></p>
+<p>To follow Daniel / ION:</p>
+<p>TWITTER: https://twitter.com/csuwildcat</p>
+<p>WEBSITE: https://identity.foundation/ion/</p>
+<p><br></p>
+<p>To follow John / Seetee:</p>
+<p>TWITTER: https://twitter.com/johnkvallis</p>
+<p>TWITTER: https://twitter.com/Seetee_io</p>
+<p>WEBSITE: https://www.seetee.io</p>
+<p><br></p>
+<p><br></p>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/04---Daniel-Buchner-Decentralized-Identity-on-Bitcoin-w-Microsofts-ION-e16b4gb</link>
+			<guid isPermaLink="false">ff0242c3-af85-430d-b552-02c2bcb56fa2</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Tue, 24 Aug 2021 20:06:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/39210955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-23%2F3eaf53ed-2b40-94a1-88e4-6f91fd10bc53.mp3" length="228086511" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Today&apos;s guest on Closing the Loop is Daniel Buchner.&lt;/p&gt;
+&lt;p&gt;Daniel is the Senior Product Manager for Decentralized Identity at Microsoft, which in March of 2021 culminated in the launch of ION.&lt;/p&gt;
+&lt;p&gt;ION is an open, public, permissionless Layer 2 Decentralized Identifier network, that runs atop the Bitcoin timechain.&lt;/p&gt;
+&lt;p&gt;As life becomes increasingly digital, and concerns around privacy and control of personal data become increasingly important, we thought it would be interesting to speak with Daniel, to see how he and the team at ION are leveraging bitcoin&apos;s unique attributes, to build solutions that put control of data back where it belongs - in the hands of each individual.&lt;/p&gt;
+&lt;p&gt;If you&apos;re listening to this show on a podcasting 2.0 app, thank you for supporting the emerging value 4 value publishing model (and if not, find an app here: https://podcastindex.org/apps).&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;By using one of these apps, you&apos;ll be &apos;donating&apos; to the Human Rights Foundation, as Daniel has graciously directed his streaming sats to that organization :)&lt;/p&gt;
+&lt;p&gt;If you have any feedback on the show, or have any suggestions for future guests, please feel free to reach out and let me know.&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;To follow Daniel / ION:&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/csuwildcat&lt;/p&gt;
+&lt;p&gt;WEBSITE: https://identity.foundation/ion/&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;To follow John / Seetee:&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
+&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>5702</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1629821384533-88233b66c7c2f.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#03 - Harry Sudock: Bitcoin Mining at GRIID, the Evolution of Energy Production, and Human Flourishing]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
