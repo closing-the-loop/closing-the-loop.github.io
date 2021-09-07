@@ -32,6 +32,60 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg"/>
 		<item>
+			<title><![CDATA[#05 - Roy Sheinfeld: The Interface of the Peer to Peer Lightning Economy w/ Breez]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
+			</podcast:value>
+			<description><![CDATA[<p>Today's guest on Closing the Loop is Roy Sheinfeld.&nbsp;</p>
+<p>Roy is the CEO and Co-Founder of Breez, a mobile app which aspires to be 'The interface of the peer to peer lightning economy'.</p>
+<p>Roy and his team have taken a nascent, though still largely intimidating technology, and abstracted away much of the complexity, so that the average user can begin to interact with it, and leverage the tremendous value which the lightning network increasingly represents.</p>
+<p>Podcasting 2.0, and the value for value model, are important focuses for us here at Closing the Loop, and Breez has been instrumental at making it easy for users to engage this emerging method of content consumption, and for that we're very grateful.</p>
+<p>For full disclosure, Seetee has been so impressed by what Roy and his team are doing, that we've recently made an investment in Breez, to facilitate the continuation of their amazing work.</p>
+<p>Enjoy!</p>
+<p><br></p>
+<p>--</p>
+<p><br></p>
+<p>To follow Roy / Breez:</p>
+<p>TWITTER: https://twitter.com/Breez_Tech</p>
+<p>WEBSITE: https://breez.technology</p>
+<p><br></p>
+<p>To follow John / Seetee:</p>
+<p>TWITTER: https://twitter.com/johnkvallis</p>
+<p>TWITTER: https://twitter.com/Seetee_io</p>
+<p>WEBSITE: https://www.seetee.io</p>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/05---Roy-Sheinfeld-The-Interface-of-the-Peer-to-Peer-Lightning-Economy-w-Breez-e16vr1r</link>
+			<guid isPermaLink="false">1521c72c-827d-4e5f-9c5e-9d6a14e77680</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Tue, 07 Sep 2021 18:28:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/39889403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-6%2Fd0cef702-ebde-e773-8198-fcc9c15f1a2c.mp3" length="212774576" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Today&apos;s guest on Closing the Loop is Roy Sheinfeld.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Roy is the CEO and Co-Founder of Breez, a mobile app which aspires to be &apos;The interface of the peer to peer lightning economy&apos;.&lt;/p&gt;
+&lt;p&gt;Roy and his team have taken a nascent, though still largely intimidating technology, and abstracted away much of the complexity, so that the average user can begin to interact with it, and leverage the tremendous value which the lightning network increasingly represents.&lt;/p&gt;
+&lt;p&gt;Podcasting 2.0, and the value for value model, are important focuses for us here at Closing the Loop, and Breez has been instrumental at making it easy for users to engage this emerging method of content consumption, and for that we&apos;re very grateful.&lt;/p&gt;
+&lt;p&gt;For full disclosure, Seetee has been so impressed by what Roy and his team are doing, that we&apos;ve recently made an investment in Breez, to facilitate the continuation of their amazing work.&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;To follow Roy / Breez:&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/Breez_Tech&lt;/p&gt;
+&lt;p&gt;WEBSITE: https://breez.technology&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;To follow John / Seetee:&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
+&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>5319</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1630939113666-19c809f25fe66.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#04 - Daniel Buchner: Decentralized Identity on Bitcoin w/ Microsoft's ION]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
