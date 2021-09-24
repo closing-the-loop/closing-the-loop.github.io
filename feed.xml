@@ -32,6 +32,58 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg"/>
 		<item>
+			<title><![CDATA[#06 - Whit Gibbs: Now Everyone Can Mine Bitcoin]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
+			</podcast:value>
+			<description><![CDATA[<p>Welcome back to another episode of Closing the Loop.</p>
+<p>Today's guest is Whit Gibbs, co-founder and CEO of Compass Mining.</p>
+<p>According to their website:</p>
+<p>'Compass is a Bitcoin-first company, on a mission to support the decentralized growth of hashrate and strengthen network security, by helping more people learn, explore and mine Bitcoin.'</p>
+<p>In the last couple of years, interest in bitcoin mining has seemingly exploded, as the industry has developed, and as more and more people begin to understand just how diverse its impact will be, and the opportunity that it therefore represents.</p>
+<p>Additionally, many individuals are beginning to get involved, not just because of the financial incentives, but also because of a desire to contribute to the further decentralization and security of the bitcoin network.</p>
+<p>Whit and his team have obviously struck a nerve with the market, and you really get the sense that they are developing a platform which will create many more opportunities, in the not so distant future.</p>
+<p>Enjoy!</p>
+<p>-</p>
+<p>To follow Roy / Breez:</p>
+<p>TWITTER: https://twitter.com/BitcoinBroski</p>
+<p>WEBSITE: https://compassmining.io</p>
+<p>To follow John / Seetee:</p>
+<p>TWITTER: https://twitter.com/johnkvallis</p>
+<p>TWITTER: https://twitter.com/Seetee_io</p>
+<p>WEBSITE: https://www.seetee.io</p>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/06---Whit-Gibbs-Now-Everyone-Can-Mine-Bitcoin-e17rfjb</link>
+			<guid isPermaLink="false">7943851a-5405-4e85-88ff-41f09dce32c0</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Fri, 24 Sep 2021 18:39:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/40795179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2Ff0515869-aa53-7885-bb39-6fccb96384e1.mp3" length="204816633" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome back to another episode of Closing the Loop.&lt;/p&gt;
+&lt;p&gt;Today&apos;s guest is Whit Gibbs, co-founder and CEO of Compass Mining.&lt;/p&gt;
+&lt;p&gt;According to their website:&lt;/p&gt;
+&lt;p&gt;&apos;Compass is a Bitcoin-first company, on a mission to support the decentralized growth of hashrate and strengthen network security, by helping more people learn, explore and mine Bitcoin.&apos;&lt;/p&gt;
+&lt;p&gt;In the last couple of years, interest in bitcoin mining has seemingly exploded, as the industry has developed, and as more and more people begin to understand just how diverse its impact will be, and the opportunity that it therefore represents.&lt;/p&gt;
+&lt;p&gt;Additionally, many individuals are beginning to get involved, not just because of the financial incentives, but also because of a desire to contribute to the further decentralization and security of the bitcoin network.&lt;/p&gt;
+&lt;p&gt;Whit and his team have obviously struck a nerve with the market, and you really get the sense that they are developing a platform which will create many more opportunities, in the not so distant future.&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;To follow Roy / Breez:&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/BitcoinBroski&lt;/p&gt;
+&lt;p&gt;WEBSITE: https://compassmining.io&lt;/p&gt;
+&lt;p&gt;To follow John / Seetee:&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
+&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>5120</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1632505324518-7b66e0fc274d2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#05 - Roy Sheinfeld: The Interface of the Peer to Peer Lightning Economy w/ Breez]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
