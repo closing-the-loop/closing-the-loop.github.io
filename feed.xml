@@ -32,6 +32,64 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg"/>
 		<item>
+			<title><![CDATA[#07 - Dhruv Bansal: Bitcoin-Native Financial Services w/ Unchained Capital]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
+			</podcast:value>
+			<description><![CDATA[<p>Welcome back to another episode of Closing the Loop.</p>
+<p>Today's guest is Dhruv Bansal, Co-founder and CSO at Unchained Capital.</p>
+<p>Unchained, as it is known, is a bitcoin-native financial services company, which builds products to help individuals, and organizations, better custody and hodl their bitcoin.</p>
+<p>Crucial to this is their focus on collaborative custody using multisig, which allows them to offer robust key management solutions, transparent bitcoin collateralized loans, retirement and inheritance planning, and likely much more in the future.</p>
+<p>They've also built a great open source tool called Caravan, which not only supports their product offering, but makes valuable new ways of managing and using bitcoin available to everyone.</p>
+<p>Dhruv is also a highly-regarded author in the bitcoin space, having written an extremely fascinating 3-part series called 'Bitcoin Astronomy', which I couldn't resist spending some time on in this conversation.</p>
+<p>Enjoy!</p>
+<p>-</p>
+<p>Donation: Dhruv has opted to direct his streaming sats for this episode to the Human Rights Foundation.</p>
+<p>-</p>
+<p>To follow Dhruv / Uncahined:</p>
+<p>TWITTER: https://twitter.com/dhruvbansal</p>
+<p>TWITTER (Unchained): https://twitter.com/unchainedcap</p>
+<p>WEBSITE: https://unchained.com</p>
+<p><br></p>
+<p>To follow John / Seetee:</p>
+<p>TWITTER: https://twitter.com/johnkvallis</p>
+<p>TWITTER: https://twitter.com/Seetee_io</p>
+<p>WEBSITE: https://www.seetee.io</p>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/07---Dhruv-Bansal-Bitcoin-Native-Financial-Services-w-Unchained-Capital-e18kv3g</link>
+			<guid isPermaLink="false">f570406f-6493-4fe3-bf3c-4c7e7ac21bc2</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Tue, 12 Oct 2021 09:51:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/41630256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-11%2Fe22f4454-ea0f-9b22-119c-1111f47d05c8.mp3" length="211805756" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome back to another episode of Closing the Loop.&lt;/p&gt;
+&lt;p&gt;Today&apos;s guest is Dhruv Bansal, Co-founder and CSO at Unchained Capital.&lt;/p&gt;
+&lt;p&gt;Unchained, as it is known, is a bitcoin-native financial services company, which builds products to help individuals, and organizations, better custody and hodl their bitcoin.&lt;/p&gt;
+&lt;p&gt;Crucial to this is their focus on collaborative custody using multisig, which allows them to offer robust key management solutions, transparent bitcoin collateralized loans, retirement and inheritance planning, and likely much more in the future.&lt;/p&gt;
+&lt;p&gt;They&apos;ve also built a great open source tool called Caravan, which not only supports their product offering, but makes valuable new ways of managing and using bitcoin available to everyone.&lt;/p&gt;
+&lt;p&gt;Dhruv is also a highly-regarded author in the bitcoin space, having written an extremely fascinating 3-part series called &apos;Bitcoin Astronomy&apos;, which I couldn&apos;t resist spending some time on in this conversation.&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;Donation: Dhruv has opted to direct his streaming sats for this episode to the Human Rights Foundation.&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;To follow Dhruv / Uncahined:&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/dhruvbansal&lt;/p&gt;
+&lt;p&gt;TWITTER (Unchained): https://twitter.com/unchainedcap&lt;/p&gt;
+&lt;p&gt;WEBSITE: https://unchained.com&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;To follow John / Seetee:&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
+&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6618</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1633975155621-4c2489af747e1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#06 - Whit Gibbs: Now Everyone Can Mine Bitcoin]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
