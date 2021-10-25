@@ -4,7 +4,7 @@
 			<podcast:valueRecipient name="John" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="25"/>
 			<podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="25"/>
 			<podcast:valueRecipient name="Badders" type="node" address="021ce28b653fcb00d6e2e0aee00dba8cb1e20be90415bec44037f908cd869d9f88" split="25"/>
-			<podcast:valueRecipient name="Human Rights Foundation" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="25"/>
+			<podcast:valueRecipient name="Human Rights Foundation" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="25"/>
 		</podcast:value>
 		<title><![CDATA[Closing the Loop]]></title>
 		<description><![CDATA[Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!]]></description>
@@ -34,7 +34,7 @@
 		<item>
 			<title><![CDATA[#08 - Preston Pysh: A Once in a Millennium Opportunity]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
 				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>Welcome back to another episode of Closing the Loop.</p>
@@ -88,7 +88,7 @@
 		<item>
 			<title><![CDATA[#07 - Dhruv Bansal: Bitcoin-Native Financial Services w/ Unchained Capital]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
 				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>Welcome back to another episode of Closing the Loop.</p>
@@ -146,7 +146,7 @@
 		<item>
 			<title><![CDATA[#06 - Whit Gibbs: Now Everyone Can Mine Bitcoin]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
 				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>Welcome back to another episode of Closing the Loop.</p>
@@ -198,7 +198,7 @@
 		<item>
 			<title><![CDATA[#05 - Roy Sheinfeld: The Interface of the Peer to Peer Lightning Economy w/ Breez]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
 				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest on Closing the Loop is Roy Sheinfeld.&nbsp;</p>
@@ -252,7 +252,7 @@
 		<item>
 			<title><![CDATA[#04 - Daniel Buchner: Decentralized Identity on Bitcoin w/ Microsoft's ION]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest on Closing the Loop is Daniel Buchner.</p>
 <p>Daniel is the Senior Product Manager for Decentralized Identity at Microsoft, which in March of 2021 culminated in the launch of ION.</p>
@@ -313,7 +313,7 @@
 		<item>
 			<title><![CDATA[#03 - Harry Sudock: Bitcoin Mining at GRIID, the Evolution of Energy Production, and Human Flourishing]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="003bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
 			</podcast:value>
 			<description><![CDATA[<p>Welcome back to another episode of Closing the Loop.</p>
 <p>Today's guest is Harry Sudock, VP of Strategy at GRIID, a company which procures<strong>&nbsp;low-cost, renewable energy,&nbsp;</strong>to build, manage, and operate a&nbsp;growing portfolio of&nbsp;<strong>vertically-integrated bitcoin mining facilities</strong>.</p>
