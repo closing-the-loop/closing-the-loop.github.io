@@ -32,6 +32,60 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg"/>
 		<item>
+			<title><![CDATA[#09 - Adam Curry: Can't Stop the Signal]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
+			</podcast:value>
+			<description><![CDATA[<p>Welcome back to another episode of Closing the Loop.</p>
+<p>Today's guest is legendary broadcaster turned podcaster, Adam Curry.</p>
+<p>Adam has had an extremely rich, unique and interesting career in media.</p>
+<p>What began as pirate radio in Europe during his teens, led to becoming a popular MTV VJ, several entrepreneurial ventures in the early days of the internet, and being one of the first to use and popularize the new medium of podcasting.</p>
+<p>Since that time, Adam has been a strong advocate for the <a href="http://value4value.io">value 4 value</a> model of content publishing, whereby fans and listeners contribute what they believe the content is worth, rather than relying on potentially censorious advertisers.</p>
+<p>Most recently, these efforts have been made far more frictionless than ever before, with the advent of bitcoin's lightning network, and Adam has been instrumental in popularizing (and contributing to the development of) the possibilities for immediate, and effectively free, streaming payments.</p>
+<p>As a result, Adam has once again become one of the primary forces in pushing a new publishing and communications model forward, which prioritizes freedom of expression, and fosters a more direct and honest relationship between creator and audience.</p>
+<p>Enjoy!</p>
+<p>--</p>
+<p>To follow Adam:</p>
+<p>TWITTER: https://twitter.com/adamcurry</p>
+<p>PODCAST INDEX: https://podcastindex.org</p>
+<p><br></p>
+<p>To follow John/Seetee:</p>
+<p>TWITTER: https://twitter.com/johnkvallis</p>
+<p>TWITTER: https://twitter.com/Seetee_io</p>
+<p>WEBSITE: https://www.seetee.io</p>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/09---Adam-Curry-Cant-Stop-the-Signal-e19uqbm</link>
+			<guid isPermaLink="false">e0b3a86a-1654-40c8-ac5d-50a6039c2259</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Thu, 11 Nov 2021 18:49:48 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/43001654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-9%2Fc9d8550e-cded-094d-fe0c-4052b32e6942.mp3" length="245965245" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Welcome back to another episode of Closing the Loop.&lt;/p&gt;
+&lt;p&gt;Today&apos;s guest is legendary broadcaster turned podcaster, Adam Curry.&lt;/p&gt;
+&lt;p&gt;Adam has had an extremely rich, unique and interesting career in media.&lt;/p&gt;
+&lt;p&gt;What began as pirate radio in Europe during his teens, led to becoming a popular MTV VJ, several entrepreneurial ventures in the early days of the internet, and being one of the first to use and popularize the new medium of podcasting.&lt;/p&gt;
+&lt;p&gt;Since that time, Adam has been a strong advocate for the &lt;a href=&quot;http://value4value.io&quot;&gt;value 4 value&lt;/a&gt; model of content publishing, whereby fans and listeners contribute what they believe the content is worth, rather than relying on potentially censorious advertisers.&lt;/p&gt;
+&lt;p&gt;Most recently, these efforts have been made far more frictionless than ever before, with the advent of bitcoin&apos;s lightning network, and Adam has been instrumental in popularizing (and contributing to the development of) the possibilities for immediate, and effectively free, streaming payments.&lt;/p&gt;
+&lt;p&gt;As a result, Adam has once again become one of the primary forces in pushing a new publishing and communications model forward, which prioritizes freedom of expression, and fosters a more direct and honest relationship between creator and audience.&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;To follow Adam:&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/adamcurry&lt;/p&gt;
+&lt;p&gt;PODCAST INDEX: https://podcastindex.org&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;To follow John/Seetee:&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
+&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
+&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>8784</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1636388023625-2dcd107a9164.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#08 - Preston Pysh: A Once in a Millennium Opportunity]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
