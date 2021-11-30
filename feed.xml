@@ -516,18 +516,28 @@
 				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 				<podcast:valueRecipient name="Paul Itoi (Guest)" type="node" address="03a9a8d953fe747d0dd94dd3c567ddc58451101e987e2d2bf7a4d1e10a2c89ff38" split="50"/>
 			</podcast:value>
-			<description><![CDATA[<p>Paul Itoi is the founder and CEO of Stakwork, and has been a tech entrepreneur since the mid nineties.</p>
-<p>In his 'spare' time, Paul is also one of the driving forces behind the open-source, bitcoin lightning-powered chat-app, called Sphinx.</p>
-<p>As Paul puts it, Stakwork pays the bills, but Sphinx just needed to exist, so they built it.</p>
-<p>Unlike most people, Paul's entry into bitcoin was not out of an interest in the investment case, or really anything to do with the 'base layer'. Instead, Paul was drawn in by his interest in the Lightning Network, a layer 2 solution devised to enhance bitcoin's scalability.</p>
-<p>As you'll hear in this discussion, the Lightning Network greatly expands the utility of bitcoin, and in Paul's view, will be the impetus for an explosion of innovation, that will lead to bitcoin's adoption by billions of people.</p>
-<p>One such innovation is the so-called 'podcasting 2.0' model, where you can stream sats to the content creators you are listening to. You determine how much you stream, and you only pay for as long as you listen. It's known as the 'value 4 value' model, and it is one method currently being explored to develop a more direct relationship between creator and consumer, mitigating the influence of platform censorship, and hopefully diminishing the reliance on the strictly ad-based models that dominate today.&nbsp;</p>
-<p>If you'd like to give it a try, and stream sats to Paul and I while listening to this episode, you can do so using the Sphinx Chat app, available for download on the App Store and on Desktop. Another great option for doing so is Breeze Wallet, which can be found in the App Store and on Google Play.&nbsp;</p>
-<p>For a full list of other apps to explore, visit newpodcastapps.com.</p>
-<p>Thanks in advance for the support, and enjoy the show!</p>
-<p>--</p>
-<p>If you'd like to learn more about Paul's work, visit <a href="http://stakwork.com/">stakwork.com</a> and https://sphinx.chat</p>
-<p>And connect with both Paul and John on twitter: @paulitoi (https://twitter.com/paulitoi) and @johnkvallis (https://twitter.com/johnkvallis)</p>
+			<description><![CDATA[<p><a href="https://twitter.com/paulitoi" target="_blank">Paul Itoi</a> is the founder and CEO of <a href="https://stakwork.com/" target="_blank">Stakwork</a> and has been a tech entrepreneur since the mid-nineties. In his spare time, Paul is also one of the driving forces behind the open-source, lightning-powered chat-app, called <a href="https://sphinx.chat/" target="_blank">Sphinx</a>. As Paul puts it, Stakwork pays the bills, but Sphinx just needed to exist, so they built it.</p>
+<p>Unlike most people, Paul's entry into bitcoin was not out of an interest in the investment case or really anything to do with the 'base layer.' Instead, Paul was drawn in by his interest in the <a href="https://lightning.network/" target="_blank">Lightning Network</a>, a 2nd layer solution devised to enhance bitcoin's scalability. As you'll hear in this discussion, the Lightning Network greatly expands the utility of bitcoin, and in Paul's view, it will be the impetus for an explosion of innovation that will lead to bitcoin's adoption by billions of people.</p>
+<p>One such innovation is the so-called <a href="https://podcastindex.org/" target="_blank">Podcasting 2.0</a> model, where you can stream sats to the content creators you are listening to. You determine how much you stream, and you only pay for as long as you listen. It's known as the '<a href="http://value4value.io/" target="_blank">value 4 value</a>' model, and it is one method currently being explored to develop a more direct relationship between creator and consumer, mitigating the influence of platform censorship and hopefully diminishing the reliance on the strictly ad-based models that dominate today.</p>
+<p>If you'd like to give it a try and stream sats to Paul and John while listening to this episode, you can do so using the Sphinx Chat app, available for download on the App Store and on Desktop. Another great option for doing so is the <a href="https://breez.technology/" target="_blank">Breez Wallet</a>, which can be found in the App Store and on Google Play.</p>
+<p>For a full list of other apps to explore, visit <a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a>. Thanks in advance for the support, and enjoy the show!</p>
+<p>---</p>
+<p>Follow Paul &amp; Stakwork:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/paulitoi" target="_blank">@paulitoi</a></li>
+ <li>Website: <a href="https://stakwork.com/" target="_blank">stakwork.com</a> &amp; <a href="https://sphinx.chat/" target="_blank">sphinx.chat</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
+</ul>
 ]]></description>
 			<link>https://anchor.fm/closingtheloop/episodes/02---Paul-Itoi-Stakwork--Sphinx-Chat--and-the-Bitcoin-Lightning-Economy-e14oei4</link>
 			<guid isPermaLink="false">82a9282f-8e92-42f5-8479-b44945ca49e3</guid>
