@@ -571,20 +571,30 @@
 				<podcast:valueRecipient name="Gigi (Guest)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="33"/>
 				<podcast:valueRecipient name="Badders (Audio Engineer)" type="node" address="021ce28b653fcb00d6e2e0aee00dba8cb1e20be90415bec44037f908cd869d9f88" split="33"/>
 			</podcast:value>
-			<description><![CDATA[<p>For the inaugural episode of Closing the Loop, it is a genuine honor to introduce you to a highly respected bitcoiner and dear friend of mine, who goes by the name of Gigi.</p>
+			<description><![CDATA[<p>For the inaugural episode of Closing the Loop, it is a genuine honor to introduce you to a highly respected bitcoiner and dear friend of mine, who goes by the name of <a href="https://twitter.com/dergigi" target="_blank">Gigi</a>.</p>
 <p>Gigi is a father, educator, meme artist, author, philosopher, and someone who is fully committed to serving the bitcoin project and seeing it succeed.</p>
 <p>He curates the website <a href="https://bitcoin-resources.com/" target="_blank">bitcoin-resources.com</a>, where much of the top bitcoin content can be found for anyone seeking to get up to speed.</p>
 <p>His first book, <a href="https://21lessons.com/" target="_blank">21 Lessons</a>, is a fascinating and rich exploration of the many things he has learned from falling down the proverbial 'bitcoin rabbit hole.'</p>
 <p>His forthcoming book, <a href="http://21waysbook.com/" target="_blank">21 Ways</a>, is a highly anticipated work from someone who has come to be considered amongst the most appreciated thinkers in the bitcoin space for the incredible depth of his understanding of the subject and his ability to articulate it in such a digestible yet profound way.</p>
 <p>Gigi has committed his mind, body, and soul to bitcoin. As one of my closest friends, I couldn't be happier for the success his dedication and passion have manifested, culminating most recently in his position as lead developer at Seetee.</p>
 <p>In this conversation, we discuss what makes Bitcoin so special and some of the motivations behind and plans for this podcast series.</p>
-<p>Enjoy.</p>
-<p>--</p>
-<p>Connect with us:</p>
-<p>Website: <a href="https://www.seetee.io">https://www.seetee.io</a></p>
-<p>Seetee: <a href="https://twitter.com/Seetee_io">https://twitter.com/Seetee_io</a></p>
-<p>Gigi: <a href="https://twitter.com/dergigi">https://twitter.com/dergigi</a></p>
-<p>John: <a href="https://twitter.com/johnkvallis">https://twitter.com/johnkvallis</a></p>
+<p>---</p>
+<p>Follow Gigi:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/dergigi" target="_blank">@dergigi</a></li>
+ <li>Website: <a href="https://dergigi.com/" target="_blank">dergigi.com</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
+</ul>
 ]]></description>
 			<link>https://anchor.fm/closingtheloop/episodes/01---Gigi-Introduction-to-Closing-the-Loop-e13sdmm</link>
 			<guid isPermaLink="false">71411cab-bf22-47b4-9147-67397b254b34</guid>
