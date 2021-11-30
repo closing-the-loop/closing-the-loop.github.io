@@ -393,27 +393,28 @@
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
 			</podcast:value>
-			<description><![CDATA[<p>Today's guest on Closing the Loop is Daniel Buchner.</p>
-<p>Daniel is the Senior Product Manager for Decentralized Identity at Microsoft, which in March of 2021 culminated in the launch of ION.</p>
-<p>ION is an open, public, permissionless Layer 2 Decentralized Identifier network, that runs atop the Bitcoin timechain.</p>
-<p>As life becomes increasingly digital, and concerns around privacy and control of personal data become increasingly important, we thought it would be interesting to speak with Daniel, to see how he and the team at ION are leveraging bitcoin's unique attributes, to build solutions that put control of data back where it belongs - in the hands of each individual.</p>
-<p>If you're listening to this show on a podcasting 2.0 app, thank you for supporting the emerging value 4 value publishing model (and if not, find an app here: https://podcastindex.org/apps).&nbsp;</p>
-<p>By using one of these apps, you'll be 'donating' to the Human Rights Foundation, as Daniel has graciously directed his streaming sats to that organization :)</p>
-<p>If you have any feedback on the show, or have any suggestions for future guests, please feel free to reach out and let me know.</p>
-<p>Enjoy!</p>
-<p><br></p>
-<p>--</p>
-<p><br></p>
-<p>To follow Daniel / ION:</p>
-<p>TWITTER: https://twitter.com/csuwildcat</p>
-<p>WEBSITE: https://identity.foundation/ion/</p>
-<p><br></p>
-<p>To follow John / Seetee:</p>
-<p>TWITTER: https://twitter.com/johnkvallis</p>
-<p>TWITTER: https://twitter.com/Seetee_io</p>
-<p>WEBSITE: https://www.seetee.io</p>
-<p><br></p>
-<p><br></p>
+			<description><![CDATA[<p>Today's guest on Closing the Loop is <a href="https://twitter.com/csuwildcat" target="_blank">Daniel Buchner</a>. Daniel is the Senior Product Manager for Decentralized Identity at Microsoft, which in March of 2021 culminated in the launch of <a href="https://identity.foundation/ion/" target="_blank">ION</a>.</p>
+<p>ION is an open, public, permissionless Layer 2 Decentralized Identifier network that runs atop the Bitcoin <a href="https://dergigi.com/2021/01/14/bitcoin-is-time/" target="_blank">timechain</a>.</p>
+<p>As life becomes increasingly digital and concerns around privacy and control of personal data become increasingly important, we thought it would be interesting to speak with Daniel to see how he and the team at ION are leveraging bitcoin's unique attributes to build solutions that put control of data back where it belongs - in the hands of each individual.</p>
+<p>If you're listening to this show on a <a href="https://podcastindex.org/apps" target="_blank">podcasting 2.0 app</a>, thank you for supporting the emerging <a href="http://value4value.io/" target="_blank">value for value</a> publishing model. By using one of these apps, you'll be donating to the Human Rights Foundation, as Daniel has graciously directed his streaming sats to the HRF.</p>
+<p>If you have any feedback on the show or have any suggestions for future guests, please feel free to reach out and let us know.</p>
+<p>---</p>
+<p>Follow Daniel &amp; Project ION:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/csuwildcat" target="_blank">@csuwildcat</a></li>
+ <li>Website: <a href="https://identity.foundation/ion/" target="_blank">identity.foundation/ion</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
+</ul>
 ]]></description>
 			<link>https://anchor.fm/closingtheloop/episodes/04---Daniel-Buchner-Decentralized-Identity-on-Bitcoin-w-Microsofts-ION-e16b4gb</link>
 			<guid isPermaLink="false">ff0242c3-af85-430d-b552-02c2bcb56fa2</guid>
