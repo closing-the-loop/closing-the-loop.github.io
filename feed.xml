@@ -33,6 +33,68 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg"/>
 		<item>
+			<title><![CDATA[#11 - Steve Barbour: The Solution Is to Plug in More ASICs]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+			</podcast:value>
+			<description><![CDATA[<p>For this episode, our guest is <a href="https://twitter.com/SGBarbour" target="_blank">Steve Barbour</a>, founder and CEO of <a href="https://www.upstreamdata.ca/" target="_blank">Upstream Data</a>.</p>
+<p>Since 2017, Upstream Data has been pioneering solutions to capture methane emissions in the upstream oil and gas industry. Steve and his team monetize the energy at the source with mobile bitcoin-mining rigs.</p>
+<p>Steve's ingenuity and success have caused many to begin thinking "outside the box" when it comes to potential energy sources for powering the Bitcoin network. This novel way of approaching things has spawned a burgeoning industry for taking wasted, isolated, unused, or underused energy resources, and turning them into sats for profit.</p>
+<p>Steve is a highly regarded entrepreneur in the bitcoin space who is known for his frank style of communication and the honesty and integrity with which he conducts himself and his business.</p>
+<p>---</p>
+<p>Follow David:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/SGBarbour">@SGBarbour</a></li>
+ <li>Website: <a href="https://www.upstreamdata.ca">upstreamdata.ca</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/">Breez.Technology</a></li>
+  <li><a href="http://newpodcastingapps.com/">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/">Value4Value.io</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/11---Steve-Barbour-The-Solution-Is-to-Plug-in-More-ASICs-e1bectq</link>
+			<guid isPermaLink="false">40d5933e-052b-4d58-9657-d985aa4269e7</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Thu, 09 Dec 2021 13:53:33 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/44560762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-8%2Fb476b967-7fad-1bc6-04b4-2e70e139b310.mp3" length="202358206" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;For this episode, our guest is &lt;a href=&quot;https://twitter.com/SGBarbour&quot; target=&quot;_blank&quot;&gt;Steve Barbour&lt;/a&gt;, founder and CEO of &lt;a href=&quot;https://www.upstreamdata.ca/&quot; target=&quot;_blank&quot;&gt;Upstream Data&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Since 2017, Upstream Data has been pioneering solutions to capture methane emissions in the upstream oil and gas industry. Steve and his team monetize the energy at the source with mobile bitcoin-mining rigs.&lt;/p&gt;
+&lt;p&gt;Steve&apos;s ingenuity and success have caused many to begin thinking &quot;outside the box&quot; when it comes to potential energy sources for powering the Bitcoin network. This novel way of approaching things has spawned a burgeoning industry for taking wasted, isolated, unused, or underused energy resources, and turning them into sats for profit.&lt;/p&gt;
+&lt;p&gt;Steve is a highly regarded entrepreneur in the bitcoin space who is known for his frank style of communication and the honesty and integrity with which he conducts himself and his business.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow David:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/SGBarbour&quot;&gt;@SGBarbour&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.upstreamdata.ca&quot;&gt;upstreamdata.ca&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6323</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1638988254552-40b8bd13491a.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#10 - David Bailey: Celebrating Bitcoin Culture]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
