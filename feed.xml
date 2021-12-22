@@ -453,7 +453,8 @@
 		<item>
 			<title><![CDATA[#04 - Daniel Buchner: Decentralized Identity on Bitcoin w/ Microsoft's ION]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest on Closing the Loop is <a href="https://twitter.com/csuwildcat" target="_blank">Daniel Buchner</a>. Daniel is the Senior Product Manager for Decentralized Identity at Microsoft, which in March of 2021 culminated in the launch of <a href="https://identity.foundation/ion/" target="_blank">ION</a>.</p>
 <p>ION is an open, public, permissionless Layer 2 Decentralized Identifier network that runs atop the Bitcoin <a href="https://dergigi.com/2021/01/14/bitcoin-is-time/" target="_blank">timechain</a>.</p>
@@ -515,7 +516,8 @@
 		<item>
 			<title><![CDATA[#03 - Harry Sudock: Bitcoin Mining at GRIID, the Evolution of Energy Production, and Human Flourishing]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/harry_sudock" target="_blank">Harry Sudock</a>, VP of Strategy at <a href="https://www.griid.com/" target="_blank">GRIID</a>, a company that procures<strong> </strong>low-cost, renewable energy<strong> </strong>to build, manage, and operate a growing portfolio of vertically-integrated bitcoin mining facilities.</p>
 <p>Harry is incredibly passionate and knowledgeable about the bitcoin mining industry and extremely dedicated to the cause of Bitcoin generally.</p>
