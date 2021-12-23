@@ -33,6 +33,66 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg"/>
 		<item>
+			<title><![CDATA[#12 - Cory Klippsten: Building a Bitcoin Company for Bitcoiners, by Bitcoiners]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+			</podcast:value>
+			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/coryklippsten" target="_blank">Cory Klippsten</a>, founder and CEO of <a href="https://www.swanbitcoin.com/" target="_blank">Swan Bitcoin</a>, a popular US-based service for buying bitcoin.</p>
+<p>Swan began as a way to make it easy for people to dollar cost average their bitcoin buys, automating them on a daily, weekly, or monthly basis. Only bitcoin, and only buying. There is no option to sell with Swan — a not-so-subtle suggestion about how people should be engaging this asset.</p>
+<p>Swan is a great example of a company that benefited tremendously from hiring individuals that have been active and outspoken within the bitcoin space. Their team, along with their focus on educational content, shows the importance of education and aligning one's brand with the Bitcoin ethos. Swan is not only educating prospective customers but also contributing to the resources available to everyone seeking to understand Bitcoin better.</p>
+<p>---</p>
+<p>Follow Cory:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/coryklippsten" target="_blank">@coryklippsten</a></li>
+ <li>Website: <a href="https://www.swanbitcoin.com/" target="_blank">swanbitcoin.com</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/12---Cory-Klippsten-Building-a-Bitcoin-Company-for-Bitcoiners--by-Bitcoiners-e1c1ada</link>
+			<guid isPermaLink="false">766126a8-dc8b-4b99-8ae8-04e12b022cab</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Thu, 23 Dec 2021 09:53:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/45180778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-21%2Fe73c7607-6070-2fe0-8f51-eacbe8b17ab1.mp3" length="251152633" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This episode&apos;s guest is &lt;a href=&quot;https://twitter.com/coryklippsten&quot; target=&quot;_blank&quot;&gt;Cory Klippsten&lt;/a&gt;, founder and CEO of &lt;a href=&quot;https://www.swanbitcoin.com/&quot; target=&quot;_blank&quot;&gt;Swan Bitcoin&lt;/a&gt;, a popular US-based service for buying bitcoin.&lt;/p&gt;
+&lt;p&gt;Swan began as a way to make it easy for people to dollar cost average their bitcoin buys, automating them on a daily, weekly, or monthly basis. Only bitcoin, and only buying. There is no option to sell with Swan — a not-so-subtle suggestion about how people should be engaging this asset.&lt;/p&gt;
+&lt;p&gt;Swan is a great example of a company that benefited tremendously from hiring individuals that have been active and outspoken within the bitcoin space. Their team, along with their focus on educational content, shows the importance of education and aligning one&apos;s brand with the Bitcoin ethos. Swan is not only educating prospective customers but also contributing to the resources available to everyone seeking to understand Bitcoin better.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Cory:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/coryklippsten&quot; target=&quot;_blank&quot;&gt;@coryklippsten&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.swanbitcoin.com/&quot; target=&quot;_blank&quot;&gt;swanbitcoin.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6278</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1640134484808-28fe693d1988e.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#11 - Steve Barbour: The Solution Is to Plug in More ASICs]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
