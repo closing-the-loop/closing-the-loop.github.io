@@ -11,12 +11,12 @@
 		<description><![CDATA[Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!]]></description>
 		<link>https://www.seetee.io/</link>
 		<image>
-			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg</url>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg</url>
 			<title>Closing the Loop</title>
 			<link>https://www.seetee.io/</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 20 Jul 2021 20:32:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Jan 2022 19:13:47 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/61f23cb0/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[John Vallis]]></author>
 		<copyright><![CDATA[John Vallis]]></copyright>
@@ -31,7 +31,69 @@
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Technology"/>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1625329413863-d5dff6c7a706e.jpg"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
+		<item>
+			<title><![CDATA[#13 Gigi: The Future of Value]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="33"/>
+				<podcast:valueRecipient name="Gigi (Guest)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="33"/>
+			</podcast:value>
+			<description><![CDATA[<p>For our first episode of the year and season, we thought it would be fun to bring <a href="https://twitter.com/dergigi" target="_blank">Gigi</a> back on for a discussion about what the team has been working on, highlights and developments from Season 1, some thoughts around the evolution of the <a href="https://dergigi.com/2021/12/30/the-freedom-of-value/" target="_blank">value4value</a> model, and our focus for the upcoming year.</p>
+<p>Thanks to everyone involved, the incredible guests we had on for discussions, and all the people who have supported this show and the wider Bitcoin ecosystem.</p>
+<p>Here's to another great year ahead, as we continue building towards hyperbitcoinization.</p>
+<p>---</p>
+<p>Follow Gigi:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/dergigi" target="_blank">@dergigi</a></li>
+ <li>Website: <a href="https://dergigi.com/" target="_blank">dergigi.com</a></li>
+ <li>Books: <a href="https://21lessons.com/" target="_blank">21 Lessons</a>, <a href="https://21-ways.com/" target="_blank">21 Ways</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/13-Gigi-The-Future-of-Value-e1ctdsp</link>
+			<guid isPermaLink="false">7fd315b0-02cd-434e-a895-7f16c5a2b21f</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Mon, 17 Jan 2022 19:10:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/46101849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-13%2F3e1f4c0c-88b8-b18b-b43c-724469ead257.mp3" length="235387213" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;For our first episode of the year and season, we thought it would be fun to bring &lt;a href=&quot;https://twitter.com/dergigi&quot; target=&quot;_blank&quot;&gt;Gigi&lt;/a&gt; back on for a discussion about what the team has been working on, highlights and developments from Season 1, some thoughts around the evolution of the &lt;a href=&quot;https://dergigi.com/2021/12/30/the-freedom-of-value/&quot; target=&quot;_blank&quot;&gt;value4value&lt;/a&gt; model, and our focus for the upcoming year.&lt;/p&gt;
+&lt;p&gt;Thanks to everyone involved, the incredible guests we had on for discussions, and all the people who have supported this show and the wider Bitcoin ecosystem.&lt;/p&gt;
+&lt;p&gt;Here&apos;s to another great year ahead, as we continue building towards hyperbitcoinization.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Gigi:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/dergigi&quot; target=&quot;_blank&quot;&gt;@dergigi&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://dergigi.com/&quot; target=&quot;_blank&quot;&gt;dergigi.com&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Books: &lt;a href=&quot;https://21lessons.com/&quot; target=&quot;_blank&quot;&gt;21 Lessons&lt;/a&gt;, &lt;a href=&quot;https://21-ways.com/&quot; target=&quot;_blank&quot;&gt;21 Ways&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>5884</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1642445159736-338b24ecc8875.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[#12 - Cory Klippsten: Building a Bitcoin Company for Bitcoiners, by Bitcoiners]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
@@ -54,8 +116,8 @@
 </ul>
 <p>Use Podcasting 2.0:</p>
 <ul>
-  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
-  <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
+ <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+ <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
   <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
 </ul>
 ]]></description>
@@ -63,7 +125,7 @@
 			<guid isPermaLink="false">766126a8-dc8b-4b99-8ae8-04e12b022cab</guid>
 			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Thu, 23 Dec 2021 09:53:02 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/45180778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-21%2Fe73c7607-6070-2fe0-8f51-eacbe8b17ab1.mp3" length="251152633" type="audio/mpeg"/>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/45180778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-23%2F983d40c8-21db-3d58-631f-59728fd8ba8d.mp3" length="200922934" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;This episode&apos;s guest is &lt;a href=&quot;https://twitter.com/coryklippsten&quot; target=&quot;_blank&quot;&gt;Cory Klippsten&lt;/a&gt;, founder and CEO of &lt;a href=&quot;https://www.swanbitcoin.com/&quot; target=&quot;_blank&quot;&gt;Swan Bitcoin&lt;/a&gt;, a popular US-based service for buying bitcoin.&lt;/p&gt;
 &lt;p&gt;Swan began as a way to make it easy for people to dollar cost average their bitcoin buys, automating them on a daily, weekly, or monthly basis. Only bitcoin, and only buying. There is no option to sell with Swan — a not-so-subtle suggestion about how people should be engaging this asset.&lt;/p&gt;
 &lt;p&gt;Swan is a great example of a company that benefited tremendously from hiring individuals that have been active and outspoken within the bitcoin space. Their team, along with their focus on educational content, shows the importance of education and aligning one&apos;s brand with the Bitcoin ethos. Swan is not only educating prospective customers but also contributing to the resources available to everyone seeking to understand Bitcoin better.&lt;/p&gt;
@@ -80,14 +142,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>6278</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1640134484808-28fe693d1988e.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642445094507-d6b015e8d28df.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>12</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -103,15 +165,15 @@
 <p>Steve's ingenuity and success have caused many to begin thinking "outside the box" when it comes to potential energy sources for powering the Bitcoin network. This novel way of approaching things has spawned a burgeoning industry for taking wasted, isolated, unused, or underused energy resources, and turning them into sats for profit.</p>
 <p>Steve is a highly regarded entrepreneur in the bitcoin space who is known for his frank style of communication and the honesty and integrity with which he conducts himself and his business.</p>
 <p>---</p>
-<p>Follow David:</p>
+<p>Follow Steve:</p>
 <ul>
  <li>Twitter: <a href="https://twitter.com/SGBarbour">@SGBarbour</a></li>
  <li>Website: <a href="https://www.upstreamdata.ca">upstreamdata.ca</a></li>
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io">@Seetee_io</a></li>
-  <li>Website: <a href="https://www.seetee.io/">seetee.io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
 <ul>
@@ -130,15 +192,15 @@
 &lt;p&gt;Steve&apos;s ingenuity and success have caused many to begin thinking &quot;outside the box&quot; when it comes to potential energy sources for powering the Bitcoin network. This novel way of approaching things has spawned a burgeoning industry for taking wasted, isolated, unused, or underused energy resources, and turning them into sats for profit.&lt;/p&gt;
 &lt;p&gt;Steve is a highly regarded entrepreneur in the bitcoin space who is known for his frank style of communication and the honesty and integrity with which he conducts himself and his business.&lt;/p&gt;
 &lt;p&gt;---&lt;/p&gt;
-&lt;p&gt;Follow David:&lt;/p&gt;
+&lt;p&gt;Follow Steve:&lt;/p&gt;
 &lt;ul&gt;
  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/SGBarbour&quot;&gt;@SGBarbour&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;Website: &lt;a href=&quot;https://www.upstreamdata.ca&quot;&gt;upstreamdata.ca&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
 &lt;ul&gt;
@@ -149,7 +211,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>6323</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1638988254552-40b8bd13491a.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642445031627-680488e69e216.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>11</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -171,8 +233,8 @@
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
-  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
 <ul>
@@ -202,14 +264,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
 &lt;ul&gt;
- &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>7745</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1637713413594-f15365f163f33.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642444974043-f266406217195.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>10</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -231,11 +293,11 @@
 <ul>
  <li>Mastodon: <a href="https://podcastindex.social/@adam" target="_blank">@adam</a></li>
  <li>Twitter: <a href="https://twitter.com/adamcurry" target="_blank">@adamcurry</a></li>
-  <li>Podcast Index: <a href="https://podcastindex.org/" target="_blank">podcastindex.org</a></li>
+ <li>Podcast Index: <a href="https://podcastindex.org/" target="_blank">podcastindex.org</a></li>
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
   <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
@@ -250,27 +312,34 @@
 			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Thu, 11 Nov 2021 18:49:48 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/43001654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-9%2Fc9d8550e-cded-094d-fe0c-4052b32e6942.mp3" length="245965245" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;Welcome back to another episode of Closing the Loop.&lt;/p&gt;
-&lt;p&gt;Today&apos;s guest is legendary broadcaster turned podcaster, Adam Curry.&lt;/p&gt;
-&lt;p&gt;Adam has had an extremely rich, unique and interesting career in media.&lt;/p&gt;
-&lt;p&gt;What began as pirate radio in Europe during his teens, led to becoming a popular MTV VJ, several entrepreneurial ventures in the early days of the internet, and being one of the first to use and popularize the new medium of podcasting.&lt;/p&gt;
-&lt;p&gt;Since that time, Adam has been a strong advocate for the &lt;a href=&quot;http://value4value.io&quot;&gt;value 4 value&lt;/a&gt; model of content publishing, whereby fans and listeners contribute what they believe the content is worth, rather than relying on potentially censorious advertisers.&lt;/p&gt;
-&lt;p&gt;Most recently, these efforts have been made far more frictionless than ever before, with the advent of bitcoin&apos;s lightning network, and Adam has been instrumental in popularizing (and contributing to the development of) the possibilities for immediate, and effectively free, streaming payments.&lt;/p&gt;
+			<itunes:summary>&lt;p&gt;Today&apos;s guest is legendary broadcaster turned podcaster &lt;a href=&quot;https://twitter.com/adamcurry/&quot; target=&quot;_blank&quot;&gt;Adam Curry&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Adam has had an extremely rich, unique, and interesting career in media.&lt;/p&gt;
+&lt;p&gt;What began as pirate radio in Europe during his teens led to becoming a popular MTV VJ as well as several entrepreneurial ventures in the early days of the internet. Later on, he was one of the first to use and popularize the new medium of podcasting, defining in part what podcasting is and how it is best understood.&lt;/p&gt;
+&lt;p&gt;Since that time, Adam has been a strong advocate for the &lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;value for value&lt;/a&gt; model of content publishing, whereby fans and listeners contribute what they believe the content is worth, rather than relying on potentially censorious advertisers.&lt;/p&gt;
+&lt;p&gt;Most recently, these efforts have been made far more frictionless than ever before, with the advent of bitcoin&apos;s lightning network, and Adam has been instrumental in popularizing - and contributing to the development of - the possibilities for immediate and virtually free streaming payments.&lt;/p&gt;
 &lt;p&gt;As a result, Adam has once again become one of the primary forces in pushing a new publishing and communications model forward, which prioritizes freedom of expression, and fosters a more direct and honest relationship between creator and audience.&lt;/p&gt;
-&lt;p&gt;Enjoy!&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;To follow Adam:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/adamcurry&lt;/p&gt;
-&lt;p&gt;PODCAST INDEX: https://podcastindex.org&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;To follow John/Seetee:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Adam:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Mastodon: &lt;a href=&quot;https://podcastindex.social/@adam&quot; target=&quot;_blank&quot;&gt;@adam&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/adamcurry&quot; target=&quot;_blank&quot;&gt;@adamcurry&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Podcast Index: &lt;a href=&quot;https://podcastindex.org/&quot; target=&quot;_blank&quot;&gt;podcastindex.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>Yes</itunes:explicit>
 			<itunes:duration>8784</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1636388023625-2dcd107a9164.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642444249588-d5e0a825dae63.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -278,8 +347,8 @@
 		<item>
 			<title><![CDATA[#08 - Preston Pysh: A Once in a Millennium Opportunity]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
-				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/PrestonPysh/" target="_blank">Preston Pysh</a>, co-creator of <a href="https://www.theinvestorspodcast.com/" target="_blank"><em>The Investor's Podcast Network</em></a>, one of the top global podcast brands for financial education.</p>
 <p>While his podcast network covers the goings-on in finance, investing, and economics broadly, Preston has more recently focused exclusively on Bitcoin. He is now hosting a weekly discussion with the top entrepreneurs, authors, and investors in this rapidly growing ecosystem.</p>
@@ -289,12 +358,12 @@
 <p>Follow Preston:</p>
 <ul>
  <li>Twitter: <a href="https://twitter.com/PrestonPysh" target="_blank">@PrestonPysh</a></li>
- <li>Webiste: <a href="https://www.theinvestorspodcast.com/" target="_blank">theinvestorspodcast.com</a></li>
+ <li>Website: <a href="https://www.theinvestorspodcast.com/" target="_blank">theinvestorspodcast.com</a></li>
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
-  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
 <ul>
@@ -308,27 +377,31 @@
 			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Mon, 25 Oct 2021 12:08:43 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/42283478/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-25%2Fddc570f7-0d0b-5820-d7bf-c44d52d05532.mp3" length="189254349" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;Welcome back to another episode of Closing the Loop.&lt;/p&gt;
-&lt;p&gt;Today&apos;s guest is Preston Pysh, Co-Creator of The Investors Podcast network, one of top global podcast brands for financial education.&lt;/p&gt;
-&lt;p&gt;While his podcast network covers the goings on in finance, investing, and economics broadly, Preston has more recently focused exclusively on bitcoin, hosting a weekly discussion with the top entrepreneurs, authors, and investors in this rapidly growing ecosystem.&lt;/p&gt;
-&lt;p&gt;Preston is highly respected amongst his peers for his thoughtful, articulate, and insightful takes on the complex dynamics of the global economy and investing landscape, and the impact that the emergence of bitcoin is having on them.&lt;/p&gt;
-&lt;p&gt;Preston and I have spoken on a number of occasions, and it&apos;s always a pleasure to catch up with him, to hear how he is currently thinking about things, and what is currently captivating him most.&lt;/p&gt;
-&lt;p&gt;Enjoy!&lt;/p&gt;
-&lt;p&gt;-&lt;/p&gt;
-&lt;p&gt;Donation: Preston has opted to direct his streaming sats for this episode to the Human Rights Foundation.&lt;/p&gt;
-&lt;p&gt;-&lt;/p&gt;
-&lt;p&gt;To follow Preston:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/PrestonPysh&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://www.theinvestorspodcast.com&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;To follow John / Seetee:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+			<itunes:summary>&lt;p&gt;Today&apos;s guest is &lt;a href=&quot;https://twitter.com/PrestonPysh/&quot; target=&quot;_blank&quot;&gt;Preston Pysh&lt;/a&gt;, co-creator of &lt;a href=&quot;https://www.theinvestorspodcast.com/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;The Investor&apos;s Podcast Network&lt;/em&gt;&lt;/a&gt;, one of the top global podcast brands for financial education.&lt;/p&gt;
+&lt;p&gt;While his podcast network covers the goings-on in finance, investing, and economics broadly, Preston has more recently focused exclusively on Bitcoin. He is now hosting a weekly discussion with the top entrepreneurs, authors, and investors in this rapidly growing ecosystem.&lt;/p&gt;
+&lt;p&gt;Preston is highly respected amongst his peers for his thoughtful, articulate, and insightful takes on the complex dynamics of the global economy and investing landscape and the impact that the emergence of bitcoin is having on them.&lt;/p&gt;
+&lt;p&gt;Preston and John have spoken on a number of occasions, and it&apos;s always a pleasure to catch up with him, to hear how he is currently thinking about things and what is currently captivating him most.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Preston:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/PrestonPysh&quot; target=&quot;_blank&quot;&gt;@PrestonPysh&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.theinvestorspodcast.com/&quot; target=&quot;_blank&quot;&gt;theinvestorspodcast.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>5914</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1635163541581-ec03905aaeecf.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642444182542-6959e923b9627.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>8</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -336,8 +409,8 @@
 		<item>
 			<title><![CDATA[#07 - Dhruv Bansal: Bitcoin-Native Financial Services w/ Unchained Capital]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
-				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/dhruvbansal" target="_blank">Dhruv Bansal</a>, co-founder and CSO at <a href="https://unchained.com/" target="_blank">Unchained Capital</a>. Unchained is a bitcoin-native financial services company that builds products to help individuals and organizations to better custody and hodl their bitcoin.</p>
 <p>Crucial to this is their focus on collaborative custody using multisig, which allows them to offer robust key management solutions, transparent bitcoin collateralized loans, retirement and inheritance planning, and likely much more in the future.</p>
@@ -351,8 +424,8 @@
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
-  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
 <ul>
@@ -366,29 +439,31 @@
 			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Tue, 12 Oct 2021 09:51:34 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/41630256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-11%2Fe22f4454-ea0f-9b22-119c-1111f47d05c8.mp3" length="211805756" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;Welcome back to another episode of Closing the Loop.&lt;/p&gt;
-&lt;p&gt;Today&apos;s guest is Dhruv Bansal, Co-founder and CSO at Unchained Capital.&lt;/p&gt;
-&lt;p&gt;Unchained, as it is known, is a bitcoin-native financial services company, which builds products to help individuals, and organizations, better custody and hodl their bitcoin.&lt;/p&gt;
+			<itunes:summary>&lt;p&gt;Today&apos;s guest is &lt;a href=&quot;https://twitter.com/dhruvbansal&quot; target=&quot;_blank&quot;&gt;Dhruv Bansal&lt;/a&gt;, co-founder and CSO at &lt;a href=&quot;https://unchained.com/&quot; target=&quot;_blank&quot;&gt;Unchained Capital&lt;/a&gt;. Unchained is a bitcoin-native financial services company that builds products to help individuals and organizations to better custody and hodl their bitcoin.&lt;/p&gt;
 &lt;p&gt;Crucial to this is their focus on collaborative custody using multisig, which allows them to offer robust key management solutions, transparent bitcoin collateralized loans, retirement and inheritance planning, and likely much more in the future.&lt;/p&gt;
-&lt;p&gt;They&apos;ve also built a great open source tool called Caravan, which not only supports their product offering, but makes valuable new ways of managing and using bitcoin available to everyone.&lt;/p&gt;
-&lt;p&gt;Dhruv is also a highly-regarded author in the bitcoin space, having written an extremely fascinating 3-part series called &apos;Bitcoin Astronomy&apos;, which I couldn&apos;t resist spending some time on in this conversation.&lt;/p&gt;
-&lt;p&gt;Enjoy!&lt;/p&gt;
-&lt;p&gt;-&lt;/p&gt;
-&lt;p&gt;Donation: Dhruv has opted to direct his streaming sats for this episode to the Human Rights Foundation.&lt;/p&gt;
-&lt;p&gt;-&lt;/p&gt;
-&lt;p&gt;To follow Dhruv / Uncahined:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/dhruvbansal&lt;/p&gt;
-&lt;p&gt;TWITTER (Unchained): https://twitter.com/unchainedcap&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://unchained.com&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;To follow John / Seetee:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+&lt;p&gt;Unchained has built a great open-source tool called &lt;a href=&quot;https://github.com/unchained-capital/caravan&quot; target=&quot;_blank&quot;&gt;Caravan&lt;/a&gt;, which not only supports their product offering but makes valuable new ways of managing and using bitcoin available to everyone.&lt;/p&gt;
+&lt;p&gt;Dhruv is also a highly-regarded author in the bitcoin space, having written a fascinating 3-part series called &lt;a href=&quot;https://unchained.com/blog/law-of-hash-horizons/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Bitcoin Astronomy&lt;/em&gt;&lt;/a&gt;, which we explored in some capacity in this conversation.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Dhruv &amp;amp; Unchained:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/dhruvbansal&quot; target=&quot;_blank&quot;&gt;@dhruvbansal&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/unchainedcap&quot; target=&quot;_blank&quot;&gt;@unchainedcap&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://unchained.com/&quot; target=&quot;_blank&quot;&gt;unchained.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>6618</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1633975155621-4c2489af747e1.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642443935617-507d810f298d3.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>7</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -396,8 +471,8 @@
 		<item>
 			<title><![CDATA[#06 - Whit Gibbs: Now Everyone Can Mine Bitcoin]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
-				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/BitcoinBroski" target="_blank">Whit Gibbs</a>, co-founder, and CEO of <a href="https://compassmining.io/" target="_blank">Compass Mining</a>.</p>
 <p>According to their website, "Compass is a Bitcoin-first company, on a mission to support the decentralized growth of hashrate and strengthen network security, by helping more people learn, explore and mine Bitcoin."</p>
@@ -412,8 +487,8 @@
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
-  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
 <ul>
@@ -427,26 +502,32 @@
 			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Fri, 24 Sep 2021 18:39:30 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/40795179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2Ff0515869-aa53-7885-bb39-6fccb96384e1.mp3" length="204816633" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;Welcome back to another episode of Closing the Loop.&lt;/p&gt;
-&lt;p&gt;Today&apos;s guest is Whit Gibbs, co-founder and CEO of Compass Mining.&lt;/p&gt;
-&lt;p&gt;According to their website:&lt;/p&gt;
-&lt;p&gt;&apos;Compass is a Bitcoin-first company, on a mission to support the decentralized growth of hashrate and strengthen network security, by helping more people learn, explore and mine Bitcoin.&apos;&lt;/p&gt;
-&lt;p&gt;In the last couple of years, interest in bitcoin mining has seemingly exploded, as the industry has developed, and as more and more people begin to understand just how diverse its impact will be, and the opportunity that it therefore represents.&lt;/p&gt;
-&lt;p&gt;Additionally, many individuals are beginning to get involved, not just because of the financial incentives, but also because of a desire to contribute to the further decentralization and security of the bitcoin network.&lt;/p&gt;
-&lt;p&gt;Whit and his team have obviously struck a nerve with the market, and you really get the sense that they are developing a platform which will create many more opportunities, in the not so distant future.&lt;/p&gt;
-&lt;p&gt;Enjoy!&lt;/p&gt;
-&lt;p&gt;-&lt;/p&gt;
-&lt;p&gt;To follow Roy / Breez:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/BitcoinBroski&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://compassmining.io&lt;/p&gt;
-&lt;p&gt;To follow John / Seetee:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+			<itunes:summary>&lt;p&gt;Today&apos;s guest is &lt;a href=&quot;https://twitter.com/BitcoinBroski&quot; target=&quot;_blank&quot;&gt;Whit Gibbs&lt;/a&gt;, co-founder, and CEO of &lt;a href=&quot;https://compassmining.io/&quot; target=&quot;_blank&quot;&gt;Compass Mining&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;According to their website, &quot;Compass is a Bitcoin-first company, on a mission to support the decentralized growth of hashrate and strengthen network security, by helping more people learn, explore and mine Bitcoin.&quot;&lt;/p&gt;
+&lt;p&gt;In the last couple of years, interest in bitcoin mining has seemingly exploded as the industry has developed and as more and more people begin to understand just how diverse its impact will be and the opportunity that it therefore represents.&lt;/p&gt;
+&lt;p&gt;Additionally, many individuals are beginning to get involved, not just because of the financial incentives but also because of a desire to contribute to the further decentralization and security of the bitcoin network.&lt;/p&gt;
+&lt;p&gt;Whit and his team have obviously struck a nerve with the market, and you really get the sense that they are developing a platform that will create many more opportunities in the not-so-distant future.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Whit &amp;amp; Compass Mining:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/BitcoinBroski&quot; target=&quot;_blank&quot;&gt;@BitcoinBroski&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://compassmining.io/&quot; target=&quot;_blank&quot;&gt;compassmining.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>5120</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1632505324518-7b66e0fc274d2.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642443832010-dfd062fa5b591.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>6</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -454,8 +535,8 @@
 		<item>
 			<title><![CDATA[#05 - Roy Sheinfeld: The Interface of the Peer to Peer Lightning Economy w/ Breez]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
-				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest on Closing the Loop is <a href="https://medium.com/@kingonly" target="_blank">Roy Sheinfeld</a>. Roy is the CEO and Co-Founder of <a href="https://breez.technology/" target="_blank">Breez</a>, a mobile app that aspires to be 'The interface of the peer to peer lightning economy.'</p>
 <p>Roy and his team have taken a nascent, though still largely intimidating technology and abstracted away much of the complexity so that the average user can begin to interact with it and leverage the tremendous value which the lightning network increasingly represents.</p>
@@ -466,11 +547,11 @@
 <ul>
  <li>Medium: <a href="https://medium.com/@kingonly" target="_blank">Roy Sheinfeld</a></li>
  <li>Twitter: <a href="https://medium.com/@kingonly" target="_blank">@Breez_Tech</a></li>
-  <li>Website: <a href="https://breez.technology/" target="_blank">breez.technology</a></li>
+ <li>Website: <a href="https://breez.technology/" target="_blank">breez.technology</a></li>
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
   <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
@@ -485,27 +566,32 @@
 			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Tue, 07 Sep 2021 18:28:20 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/39889403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-6%2Fd0cef702-ebde-e773-8198-fcc9c15f1a2c.mp3" length="212774576" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;Today&apos;s guest on Closing the Loop is Roy Sheinfeld.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Roy is the CEO and Co-Founder of Breez, a mobile app which aspires to be &apos;The interface of the peer to peer lightning economy&apos;.&lt;/p&gt;
-&lt;p&gt;Roy and his team have taken a nascent, though still largely intimidating technology, and abstracted away much of the complexity, so that the average user can begin to interact with it, and leverage the tremendous value which the lightning network increasingly represents.&lt;/p&gt;
-&lt;p&gt;Podcasting 2.0, and the value for value model, are important focuses for us here at Closing the Loop, and Breez has been instrumental at making it easy for users to engage this emerging method of content consumption, and for that we&apos;re very grateful.&lt;/p&gt;
-&lt;p&gt;For full disclosure, Seetee has been so impressed by what Roy and his team are doing, that we&apos;ve recently made an investment in Breez, to facilitate the continuation of their amazing work.&lt;/p&gt;
-&lt;p&gt;Enjoy!&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;To follow Roy / Breez:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/Breez_Tech&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://breez.technology&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;To follow John / Seetee:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+			<itunes:summary>&lt;p&gt;Today&apos;s guest on Closing the Loop is &lt;a href=&quot;https://medium.com/@kingonly&quot; target=&quot;_blank&quot;&gt;Roy Sheinfeld&lt;/a&gt;. Roy is the CEO and Co-Founder of &lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez&lt;/a&gt;, a mobile app that aspires to be &apos;The interface of the peer to peer lightning economy.&apos;&lt;/p&gt;
+&lt;p&gt;Roy and his team have taken a nascent, though still largely intimidating technology and abstracted away much of the complexity so that the average user can begin to interact with it and leverage the tremendous value which the lightning network increasingly represents.&lt;/p&gt;
+&lt;p&gt;Podcasting 2.0, and the &lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;value for value&lt;/a&gt; model, are important focuses for us here at Closing the Loop, and Breez has been instrumental at making it easy for users to engage this emerging method of content consumption, and for that, we&apos;re very grateful.&lt;/p&gt;
+&lt;p&gt;For full disclosure, Seetee has been so impressed by what Roy and his team are doing that we&apos;ve recently &lt;a href=&quot;https://medium.com/breez-technology/breez-welcomes-seetee-as-our-newest-investor-c3a9ced725da&quot; target=&quot;_blank&quot;&gt;made an investment&lt;/a&gt; in Breez to facilitate the continuation of their amazing work.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Roy &amp;amp; Breez:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Medium: &lt;a href=&quot;https://medium.com/@kingonly&quot; target=&quot;_blank&quot;&gt;Roy Sheinfeld&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://medium.com/@kingonly&quot; target=&quot;_blank&quot;&gt;@Breez_Tech&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;breez.technology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>5319</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1630939113666-19c809f25fe66.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642443649442-776ff6d642856.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>5</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -529,8 +615,8 @@
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
-  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
 <ul>
@@ -544,31 +630,32 @@
 			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Tue, 24 Aug 2021 20:06:17 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/39210955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-23%2F3eaf53ed-2b40-94a1-88e4-6f91fd10bc53.mp3" length="228086511" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;Today&apos;s guest on Closing the Loop is Daniel Buchner.&lt;/p&gt;
-&lt;p&gt;Daniel is the Senior Product Manager for Decentralized Identity at Microsoft, which in March of 2021 culminated in the launch of ION.&lt;/p&gt;
-&lt;p&gt;ION is an open, public, permissionless Layer 2 Decentralized Identifier network, that runs atop the Bitcoin timechain.&lt;/p&gt;
-&lt;p&gt;As life becomes increasingly digital, and concerns around privacy and control of personal data become increasingly important, we thought it would be interesting to speak with Daniel, to see how he and the team at ION are leveraging bitcoin&apos;s unique attributes, to build solutions that put control of data back where it belongs - in the hands of each individual.&lt;/p&gt;
-&lt;p&gt;If you&apos;re listening to this show on a podcasting 2.0 app, thank you for supporting the emerging value 4 value publishing model (and if not, find an app here: https://podcastindex.org/apps).&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;By using one of these apps, you&apos;ll be &apos;donating&apos; to the Human Rights Foundation, as Daniel has graciously directed his streaming sats to that organization :)&lt;/p&gt;
-&lt;p&gt;If you have any feedback on the show, or have any suggestions for future guests, please feel free to reach out and let me know.&lt;/p&gt;
-&lt;p&gt;Enjoy!&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;To follow Daniel / ION:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/csuwildcat&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://identity.foundation/ion/&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;To follow John / Seetee:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+			<itunes:summary>&lt;p&gt;Today&apos;s guest on Closing the Loop is &lt;a href=&quot;https://twitter.com/csuwildcat&quot; target=&quot;_blank&quot;&gt;Daniel Buchner&lt;/a&gt;. Daniel is the Senior Product Manager for Decentralized Identity at Microsoft, which in March of 2021 culminated in the launch of &lt;a href=&quot;https://identity.foundation/ion/&quot; target=&quot;_blank&quot;&gt;ION&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;ION is an open, public, permissionless Layer 2 Decentralized Identifier network that runs atop the Bitcoin &lt;a href=&quot;https://dergigi.com/2021/01/14/bitcoin-is-time/&quot; target=&quot;_blank&quot;&gt;timechain&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As life becomes increasingly digital and concerns around privacy and control of personal data become increasingly important, we thought it would be interesting to speak with Daniel to see how he and the team at ION are leveraging bitcoin&apos;s unique attributes to build solutions that put control of data back where it belongs - in the hands of each individual.&lt;/p&gt;
+&lt;p&gt;If you&apos;re listening to this show on a &lt;a href=&quot;https://podcastindex.org/apps&quot; target=&quot;_blank&quot;&gt;podcasting 2.0 app&lt;/a&gt;, thank you for supporting the emerging &lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;value for value&lt;/a&gt; publishing model. By using one of these apps, you&apos;ll be donating to the Human Rights Foundation, as Daniel has graciously directed his streaming sats to the HRF.&lt;/p&gt;
+&lt;p&gt;If you have any feedback on the show or have any suggestions for future guests, please feel free to reach out and let us know.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Daniel &amp;amp; Project ION:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/csuwildcat&quot; target=&quot;_blank&quot;&gt;@csuwildcat&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://identity.foundation/ion/&quot; target=&quot;_blank&quot;&gt;identity.foundation/ion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>5702</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1629821384533-88233b66c7c2f.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642443567091-fdee1a5589285.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>4</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -592,8 +679,8 @@
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
-  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
 <ul>
@@ -607,29 +694,32 @@
 			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Mon, 09 Aug 2021 10:17:29 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/38487458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-8%2F2707675f-e2c4-5365-d76c-c762a80de2fb.mp3" length="222327033" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;Welcome back to another episode of Closing the Loop.&lt;/p&gt;
-&lt;p&gt;Today&apos;s guest is Harry Sudock, VP of Strategy at GRIID, a company which procures&lt;strong&gt;&amp;nbsp;low-cost, renewable energy,&amp;nbsp;&lt;/strong&gt;to build, manage, and operate a&amp;nbsp;growing portfolio of&amp;nbsp;&lt;strong&gt;vertically-integrated bitcoin mining facilities&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Harry is incredibly passionate and knowledgeable about the bitcoin mining industry, and extremely dedicated to the cause of Bitcoin generally.&lt;/p&gt;
-&lt;p&gt;I invited him on the show to discuss the mining ecosystem, the impact he believes it will have on energy companies and markets, and what the implications may be for humanity more broadly.&lt;/p&gt;
-&lt;p&gt;Finally, I&apos;d like to invite you to listen to this episode on one of the many podcasting 2.0 apps that are currently available. Closing the Loop is dedicated to advancing technologies that promote individual sovereignty, and building means of censorship-resistant communications and publishing is a critical component of that. By using a podcasting 2.0 app like Breez Wallet or Sphinx Chat, you stream sats directly to the contributors of this show, in amounts YOU determine, with no middle man. For this show, Harry has chosen to opt for a kind of &apos;reverse sponsorship&apos;, by directing his stream of sats to the Human Rights Foundation. As a result, by listening to this podcast in a podcasting 2.0 app, you&apos;ll not only be learning about the transformational potential of bitcoin mining, but you&apos;ll also be supporting an organization who engages in the tireless work, of championing the cause of freedom around the world.&lt;/p&gt;
-&lt;p&gt;Pretty cool right?&lt;/p&gt;
-&lt;p&gt;Anyways, thanks in advance for the support, and enjoy the show!&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;To follow Harry / GRIID:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/harry_sudock&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/griid&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://www.griid.com&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;To follow John / Seetee:&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/johnkvallis&lt;/p&gt;
-&lt;p&gt;TWITTER: https://twitter.com/Seetee_io&lt;/p&gt;
-&lt;p&gt;WEBSITE: https://www.seetee.io&lt;/p&gt;
+			<itunes:summary>&lt;p&gt;Today&apos;s guest is &lt;a href=&quot;https://twitter.com/harry_sudock&quot; target=&quot;_blank&quot;&gt;Harry Sudock&lt;/a&gt;, VP of Strategy at &lt;a href=&quot;https://www.griid.com/&quot; target=&quot;_blank&quot;&gt;GRIID&lt;/a&gt;, a company that procures&lt;strong&gt; &lt;/strong&gt;low-cost, renewable energy&lt;strong&gt; &lt;/strong&gt;to build, manage, and operate a growing portfolio of vertically-integrated bitcoin mining facilities.&lt;/p&gt;
+&lt;p&gt;Harry is incredibly passionate and knowledgeable about the bitcoin mining industry and extremely dedicated to the cause of Bitcoin generally.&lt;/p&gt;
+&lt;p&gt;John and Harry discuss the mining ecosystem, the impact he believes it will have on energy companies and markets, and what the implications may be for humanity more broadly.&lt;/p&gt;
+&lt;p&gt;We would like to invite you to listen to this episode on one of the many &lt;a href=&quot;https://podcastindex.org/apps&quot; target=&quot;_blank&quot;&gt;Podcasting 2.0 apps&lt;/a&gt; that are currently available. Closing the Loop is dedicated to advancing technologies that promote individual sovereignty, and building means of censorship-resistant communications and publishing is a critical component of that. By using a podcasting 2.0 app like &lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez Wallet&lt;/a&gt; or Sphinx Chat, you stream sats directly to the contributors of this show, in amounts &lt;em&gt;you&lt;/em&gt; determine, with no middle man.&lt;/p&gt;
+&lt;p&gt;For this show, Harry has chosen to opt for a kind of &apos;reverse sponsorship&apos; by directing his stream of sats to the &lt;a href=&quot;https://hrf.org/&quot; target=&quot;_blank&quot;&gt;Human Rights Foundation&lt;/a&gt;. As a result, by listening to this podcast in a podcasting 2.0 app, you&apos;ll not only be learning about the transformational potential of bitcoin mining, but you&apos;ll also be supporting an organization that engages in the tireless work of championing the cause of freedom around the world.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Harry &amp;amp; GRIID:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/harry_sudock&quot; target=&quot;_blank&quot;&gt;@harry_sudock&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/griid&quot; target=&quot;_blank&quot;&gt;@griid&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.griid.com/&quot; target=&quot;_blank&quot;&gt;griid.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>5558</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1628504094097-fa145e7d5a167.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642443522855-3edf9585072da.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -653,8 +743,8 @@
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
-  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
 <ul>
@@ -668,22 +758,32 @@
 			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Tue, 20 Jul 2021 20:30:41 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/37550084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-20%2F3d4fa632-4333-5d76-bc68-1efb93802ecd.mp3" length="193646674" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;Paul Itoi is the founder and CEO of Stakwork, and has been a tech entrepreneur since the mid nineties.&lt;/p&gt;
-&lt;p&gt;In his &apos;spare&apos; time, Paul is also one of the driving forces behind the open-source, bitcoin lightning-powered chat-app, called Sphinx.&lt;/p&gt;
-&lt;p&gt;As Paul puts it, Stakwork pays the bills, but Sphinx just needed to exist, so they built it.&lt;/p&gt;
-&lt;p&gt;Unlike most people, Paul&apos;s entry into bitcoin was not out of an interest in the investment case, or really anything to do with the &apos;base layer&apos;. Instead, Paul was drawn in by his interest in the Lightning Network, a layer 2 solution devised to enhance bitcoin&apos;s scalability.&lt;/p&gt;
-&lt;p&gt;As you&apos;ll hear in this discussion, the Lightning Network greatly expands the utility of bitcoin, and in Paul&apos;s view, will be the impetus for an explosion of innovation, that will lead to bitcoin&apos;s adoption by billions of people.&lt;/p&gt;
-&lt;p&gt;One such innovation is the so-called &apos;podcasting 2.0&apos; model, where you can stream sats to the content creators you are listening to. You determine how much you stream, and you only pay for as long as you listen. It&apos;s known as the &apos;value 4 value&apos; model, and it is one method currently being explored to develop a more direct relationship between creator and consumer, mitigating the influence of platform censorship, and hopefully diminishing the reliance on the strictly ad-based models that dominate today.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;If you&apos;d like to give it a try, and stream sats to Paul and I while listening to this episode, you can do so using the Sphinx Chat app, available for download on the App Store and on Desktop. Another great option for doing so is Breeze Wallet, which can be found in the App Store and on Google Play.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;For a full list of other apps to explore, visit newpodcastapps.com.&lt;/p&gt;
-&lt;p&gt;Thanks in advance for the support, and enjoy the show!&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;If you&apos;d like to learn more about Paul&apos;s work, visit &lt;a href=&quot;http://stakwork.com/&quot;&gt;stakwork.com&lt;/a&gt; and https://sphinx.chat&lt;/p&gt;
-&lt;p&gt;And connect with both Paul and John on twitter: @paulitoi (https://twitter.com/paulitoi) and @johnkvallis (https://twitter.com/johnkvallis)&lt;/p&gt;
+			<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://twitter.com/paulitoi&quot; target=&quot;_blank&quot;&gt;Paul Itoi&lt;/a&gt; is the founder and CEO of &lt;a href=&quot;https://stakwork.com/&quot; target=&quot;_blank&quot;&gt;Stakwork&lt;/a&gt; and has been a tech entrepreneur since the mid-nineties. In his spare time, Paul is also one of the driving forces behind the open-source, lightning-powered chat-app, called &lt;a href=&quot;https://sphinx.chat/&quot; target=&quot;_blank&quot;&gt;Sphinx&lt;/a&gt;. As Paul puts it, Stakwork pays the bills, but Sphinx just needed to exist, so they built it.&lt;/p&gt;
+&lt;p&gt;Unlike most people, Paul&apos;s entry into bitcoin was not out of an interest in the investment case or really anything to do with the &apos;base layer.&apos; Instead, Paul was drawn in by his interest in the &lt;a href=&quot;https://lightning.network/&quot; target=&quot;_blank&quot;&gt;Lightning Network&lt;/a&gt;, a 2nd layer solution devised to enhance bitcoin&apos;s scalability. As you&apos;ll hear in this discussion, the Lightning Network greatly expands the utility of bitcoin, and in Paul&apos;s view, it will be the impetus for an explosion of innovation that will lead to bitcoin&apos;s adoption by billions of people.&lt;/p&gt;
+&lt;p&gt;One such innovation is the so-called &lt;a href=&quot;https://podcastindex.org/&quot; target=&quot;_blank&quot;&gt;Podcasting 2.0&lt;/a&gt; model, where you can stream sats to the content creators you are listening to. You determine how much you stream, and you only pay for as long as you listen. It&apos;s known as the &apos;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;value 4 value&lt;/a&gt;&apos; model, and it is one method currently being explored to develop a more direct relationship between creator and consumer, mitigating the influence of platform censorship and hopefully diminishing the reliance on the strictly ad-based models that dominate today.&lt;/p&gt;
+&lt;p&gt;If you&apos;d like to give it a try and stream sats to Paul and John while listening to this episode, you can do so using the Sphinx Chat app, available for download on the App Store and on Desktop. Another great option for doing so is the &lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez Wallet&lt;/a&gt;, which can be found in the App Store and on Google Play.&lt;/p&gt;
+&lt;p&gt;For a full list of other apps to explore, visit &lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;. Thanks in advance for the support, and enjoy the show!&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Paul &amp;amp; Stakwork:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/paulitoi&quot; target=&quot;_blank&quot;&gt;@paulitoi&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://stakwork.com/&quot; target=&quot;_blank&quot;&gt;stakwork.com&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://sphinx.chat/&quot; target=&quot;_blank&quot;&gt;sphinx.chat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>4841</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1626797311658-963de84603559.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642443471867-2c8bae29550b.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -710,8 +810,8 @@
 </ul>
 <p>Follow John &amp; Seetee:</p>
 <ul>
-  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
-  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
 </ul>
 <p>Use Podcasting 2.0:</p>
 <ul>
@@ -725,24 +825,34 @@
 			<dc:creator><![CDATA[John Vallis]]></dc:creator>
 			<pubDate>Sun, 04 Jul 2021 11:58:32 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/36631702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-3%2F7e9dc231-eac8-adb5-6faa-5ee5ed8fa441.mp3" length="77701040" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;For the inaugural episode of Closing the Loop, it is a genuine honor to introduce you to a highly respected bitcoiner and dear friend of mine, who goes by the name of Gigi.&lt;/p&gt;
+			<itunes:summary>&lt;p&gt;For the inaugural episode of Closing the Loop, it is a genuine honor to introduce you to a highly respected bitcoiner and dear friend of mine, who goes by the name of &lt;a href=&quot;https://twitter.com/dergigi&quot; target=&quot;_blank&quot;&gt;Gigi&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Gigi is a father, educator, meme artist, author, philosopher, and someone who is fully committed to serving the bitcoin project and seeing it succeed.&lt;/p&gt;
 &lt;p&gt;He curates the website &lt;a href=&quot;https://bitcoin-resources.com/&quot; target=&quot;_blank&quot;&gt;bitcoin-resources.com&lt;/a&gt;, where much of the top bitcoin content can be found for anyone seeking to get up to speed.&lt;/p&gt;
 &lt;p&gt;His first book, &lt;a href=&quot;https://21lessons.com/&quot; target=&quot;_blank&quot;&gt;21 Lessons&lt;/a&gt;, is a fascinating and rich exploration of the many things he has learned from falling down the proverbial &apos;bitcoin rabbit hole.&apos;&lt;/p&gt;
 &lt;p&gt;His forthcoming book, &lt;a href=&quot;http://21waysbook.com/&quot; target=&quot;_blank&quot;&gt;21 Ways&lt;/a&gt;, is a highly anticipated work from someone who has come to be considered amongst the most appreciated thinkers in the bitcoin space for the incredible depth of his understanding of the subject and his ability to articulate it in such a digestible yet profound way.&lt;/p&gt;
 &lt;p&gt;Gigi has committed his mind, body, and soul to bitcoin. As one of my closest friends, I couldn&apos;t be happier for the success his dedication and passion have manifested, culminating most recently in his position as lead developer at Seetee.&lt;/p&gt;
 &lt;p&gt;In this conversation, we discuss what makes Bitcoin so special and some of the motivations behind and plans for this podcast series.&lt;/p&gt;
-&lt;p&gt;Enjoy.&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;Connect with us:&lt;/p&gt;
-&lt;p&gt;Website: &lt;a href=&quot;https://www.seetee.io&quot;&gt;https://www.seetee.io&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Seetee: &lt;a href=&quot;https://twitter.com/Seetee_io&quot;&gt;https://twitter.com/Seetee_io&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Gigi: &lt;a href=&quot;https://twitter.com/dergigi&quot;&gt;https://twitter.com/dergigi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;John: &lt;a href=&quot;https://twitter.com/johnkvallis&quot;&gt;https://twitter.com/johnkvallis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Gigi:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/dergigi&quot; target=&quot;_blank&quot;&gt;@dergigi&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://dergigi.com/&quot; target=&quot;_blank&quot;&gt;dergigi.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>4856</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1625330573561-ca596fa76cd35.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/16332652/16332652-1642443416921-d05d93a1709a9.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
