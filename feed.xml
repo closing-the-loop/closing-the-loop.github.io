@@ -33,6 +33,74 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#14 - Rodolfo Novak: A Decade of Bitcoin Entrepreneurship]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+			</podcast:value>
+			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/nvk/" target="_blank">Rodolfo Novak</a>, co-founder and CEO of Coinkite, a popular bitcoin hardware manufacturing business, which has produced such classic products as the <a href="https://coldcard.com/" target="_blank">COLDCARD</a> hardware wallet, the <a href="https://opendime.com/" target="_blank">OPENDIME</a>, and the <a href="https://blockclockmini.com/" target="_blank">BLOCKCLOCK MINI</a> (to ensure one never loses track of <a href="https://twitter.com/moscowTimeBot/" target="_blank">Moscow time</a> :p).</p>
+<p>Rodolfo has been an entrepreneur in the bitcoin space for over a decade and has a ton of unique insights regarding building a business in the space, as well as on bitcoin's history and emergence as a cultural phenomenon.</p>
+<p>It's apparent that the 'bitcoin ethos' permeates how he and the Coinkite team operate their business, and as such it's great to see how well their efforts have been received by bitcoiners the world over.</p>
+<p>---</p>
+<p>Follow Rodolfo:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/nvk">@nvk</a></li>
+ <li>Website: <a href="https://coinkite.com">coinkite.com</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/">Breez.Technology</a></li>
+  <li><a href="http://newpodcastingapps.com/">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/">Value4Value.io</a></li>
+</ul>
+<p>Sats Streamed to:&nbsp;</p>
+<ul>
+  <li><a href="https://hrf.org">hrf.org</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/14---Rodolfo-Novak-A-Decade-of-Bitcoin-Entrepreneurship-e1dnc04</link>
+			<guid isPermaLink="false">b6b9d0a7-bbbd-4a2b-9d20-8e750a73746d</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Tue, 01 Feb 2022 14:01:53 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/46951876/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-31%2F4705a98d-80d0-7c36-10a4-7d23543b0637.mp3" length="217478298" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This episode&apos;s guest is &lt;a href=&quot;https://twitter.com/nvk/&quot; target=&quot;_blank&quot;&gt;Rodolfo Novak&lt;/a&gt;, co-founder and CEO of Coinkite, a popular bitcoin hardware manufacturing business, which has produced such classic products as the &lt;a href=&quot;https://coldcard.com/&quot; target=&quot;_blank&quot;&gt;COLDCARD&lt;/a&gt; hardware wallet, the &lt;a href=&quot;https://opendime.com/&quot; target=&quot;_blank&quot;&gt;OPENDIME&lt;/a&gt;, and the &lt;a href=&quot;https://blockclockmini.com/&quot; target=&quot;_blank&quot;&gt;BLOCKCLOCK MINI&lt;/a&gt; (to ensure one never loses track of &lt;a href=&quot;https://twitter.com/moscowTimeBot/&quot; target=&quot;_blank&quot;&gt;Moscow time&lt;/a&gt; :p).&lt;/p&gt;
+&lt;p&gt;Rodolfo has been an entrepreneur in the bitcoin space for over a decade and has a ton of unique insights regarding building a business in the space, as well as on bitcoin&apos;s history and emergence as a cultural phenomenon.&lt;/p&gt;
+&lt;p&gt;It&apos;s apparent that the &apos;bitcoin ethos&apos; permeates how he and the Coinkite team operate their business, and as such it&apos;s great to see how well their efforts have been received by bitcoiners the world over.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Rodolfo:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/nvk&quot;&gt;@nvk&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://coinkite.com&quot;&gt;coinkite.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sats Streamed to:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hrf.org&quot;&gt;hrf.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6796</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1643641796189-f87578b8b37ec.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#13 Gigi: The Future of Value]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="33"/>
