@@ -33,6 +33,78 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#15 - Oscar Merry: Building the Value4Value Infrastructure]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
+			</podcast:value>
+			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/MerryOscar" target="_blank">Oscar Merry</a>, co-founder of <a href="https://www.fountain.fm/" target="_blank">Fountain</a>, a popular Podcasting 2.0 app for sharing clips of your favorite podcast segments. The app is also value4value enabled, which means that it allows you to support your favorite show directly, by streaming and <a href="https://www.seetee.io/blog/2022-01-31-whats-in-a-boostagram/" target="_blank">boosting</a> sats.</p>
+<p>As you may have noticed, we at Seetee are big advocates of the emerging bitcoin lightning-enabled <a href="https://dergigi.com/2021/12/30/the-freedom-of-value/" target="_blank">value4value</a> model. We believe that this model is the future of free expression and digital media monetization, and so we love to see other teams working hard to build it into reality.</p>
+<p>With each of our shows, all the sats that are streamed or boosted by our listeners—thank you, by the way—are divided between everyone involved in the show, including John, our sound producer, our guests, and sometimes others. Most often our guests opt to have their stream directed to charities and other non-profit organizations, such as the HRF.</p>
+<p>For this episode, Oscar is directing his stream to a bitcoin fund that he and his team has set up. The sats in this fund are donated to new users who do not yet hold any bitcoin but are interested in exploring the world of lightning and streaming sats. Thus, if you choose to give value back while listening to this episode, know that you are not only helping to onboard new bitcoiners, but also reducing the friction of getting started in the value4value ecosystem.</p>
+<p>---</p>
+<p>Follow Oscar:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/MerryOscar" target="_blank">@MerryOscar</a></li>
+ <li>Website: <a href="https://www.fountain.fm/" target="_blank">fountain.fm</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="https://www.fountain.fm/" target="_blank">fountain.fm</a></li>
+  <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
+</ul>
+<p>Sats Streamed to:</p>
+<ul>
+  <li>Fountain Onboarding Fund</li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/15---Oscar-Merry-Building-the-Value4Value-Infrastructure-e1ecrnn</link>
+			<guid isPermaLink="false">2e7cf179-168c-4b2b-ac35-6e90b545b787</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Fri, 18 Feb 2022 13:06:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/47656119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-17%2Fe50b3d3d-479e-cd3c-e278-2f4448d01bae.mp3" length="74133758" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This episode&apos;s guest is &lt;a href=&quot;https://twitter.com/MerryOscar&quot; target=&quot;_blank&quot;&gt;Oscar Merry&lt;/a&gt;, co-founder of &lt;a href=&quot;https://www.fountain.fm/&quot; target=&quot;_blank&quot;&gt;Fountain&lt;/a&gt;, a popular Podcasting 2.0 app for sharing clips of your favorite podcast segments. The app is also value4value enabled, which means that it allows you to support your favorite show directly, by streaming and &lt;a href=&quot;https://www.seetee.io/blog/2022-01-31-whats-in-a-boostagram/&quot; target=&quot;_blank&quot;&gt;boosting&lt;/a&gt; sats.&lt;/p&gt;
+&lt;p&gt;As you may have noticed, we at Seetee are big advocates of the emerging bitcoin lightning-enabled &lt;a href=&quot;https://dergigi.com/2021/12/30/the-freedom-of-value/&quot; target=&quot;_blank&quot;&gt;value4value&lt;/a&gt; model. We believe that this model is the future of free expression and digital media monetization, and so we love to see other teams working hard to build it into reality.&lt;/p&gt;
+&lt;p&gt;With each of our shows, all the sats that are streamed or boosted by our listeners—thank you, by the way—are divided between everyone involved in the show, including John, our sound producer, our guests, and sometimes others. Most often our guests opt to have their stream directed to charities and other non-profit organizations, such as the HRF.&lt;/p&gt;
+&lt;p&gt;For this episode, Oscar is directing his stream to a bitcoin fund that he and his team has set up. The sats in this fund are donated to new users who do not yet hold any bitcoin but are interested in exploring the world of lightning and streaming sats. Thus, if you choose to give value back while listening to this episode, know that you are not only helping to onboard new bitcoiners, but also reducing the friction of getting started in the value4value ecosystem.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Oscar:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/MerryOscar&quot; target=&quot;_blank&quot;&gt;@MerryOscar&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.fountain.fm/&quot; target=&quot;_blank&quot;&gt;fountain.fm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot; target=&quot;_blank&quot;&gt;fountain.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sats Streamed to:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fountain Onboarding Fund&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4633</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1644863429195-8b485f4d2339e.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#14 - Rodolfo Novak: A Decade of Bitcoin Entrepreneurship]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
