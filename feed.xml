@@ -6,6 +6,7 @@
 			<podcast:valueRecipient name="Badders" type="node" address="021ce28b653fcb00d6e2e0aee00dba8cb1e20be90415bec44037f908cd869d9f88" split="25"/>
 			<podcast:valueRecipient name="Human Rights Foundation" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="25"/>
 			<podcast:valueRecipient name="Lightning Podcast Charity Fund" type="node" address="033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500" customKey="112111100" customValue="wal_SV5Uf4N3n5Xsc4" split="25"/>
+			<podcast:valueRecipient name="Fountain Onboarding Fund" type="node" address="033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500"  customKey="696969" customValue="wal_iPePcPFHmFx0KX" split="25"/>
 		</podcast:value>
 		<title><![CDATA[Closing the Loop]]></title>
 		<description><![CDATA[Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!]]></description>
