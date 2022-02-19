@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
 		<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-			<podcast:valueRecipient name="John" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="25"/>
-			<podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="25"/>
-			<podcast:valueRecipient name="Badders" type="node" address="021ce28b653fcb00d6e2e0aee00dba8cb1e20be90415bec44037f908cd869d9f88" split="25"/>
-			<podcast:valueRecipient name="Human Rights Foundation" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="25"/>
-			<podcast:valueRecipient name="Lightning Podcast Charity Fund" type="node" address="033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500" customKey="112111100" customValue="wal_SV5Uf4N3n5Xsc4" split="25"/>
+			<podcast:valueRecipient name="John" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="21"/>
+			<podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="21"/>
+			<podcast:valueRecipient name="Badders" type="node" address="021ce28b653fcb00d6e2e0aee00dba8cb1e20be90415bec44037f908cd869d9f88" split="21"/>
+			<podcast:valueRecipient name="Human Rights Foundation" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="21"/>
+			<podcast:valueRecipient name="Lightning Podcast Charity Fund" type="node" address="033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500" customKey="112111100" customValue="wal_SV5Uf4N3n5Xsc4" split="21"/>
+			<podcast:valueRecipient name="Fountain Onboarding Fund" type="node" address="033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500"  customKey="696969" customValue="wal_iPePcPFHmFx0KX" split="21"/>
 		</podcast:value>
 		<title><![CDATA[Closing the Loop]]></title>
 		<description><![CDATA[Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!]]></description>
@@ -36,7 +37,7 @@
 			<title><![CDATA[#15 - Oscar Merry: Building the Value4Value Infrastructure]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
-				<podcast:valueRecipient name="Fountain Onboarding Fund" type="node" address="033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500"  customKey="696969" customValue="77616c5f69506550635046486d4678304b58" split="50"/>
+				<podcast:valueRecipient name="Fountain Onboarding Fund" type="node" address="033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500"  customKey="696969" customValue="wal_iPePcPFHmFx0KX" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/MerryOscar" target="_blank">Oscar Merry</a>, co-founder of <a href="https://www.fountain.fm/" target="_blank">Fountain</a>, a popular Podcasting 2.0 app for sharing clips of your favorite podcast segments. The app is also value4value enabled, which means that it allows you to support your favorite show directly, by streaming and <a href="https://www.seetee.io/blog/2022-01-31-whats-in-a-boostagram/" target="_blank">boosting</a> sats.</p>
 <p>As you may have noticed, we at Seetee are big advocates of the emerging bitcoin lightning-enabled <a href="https://dergigi.com/2021/12/30/the-freedom-of-value/" target="_blank">value4value</a> model. We believe that this model is the future of free expression and digital media monetization, and so we love to see other teams working hard to build it into reality.</p>
