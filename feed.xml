@@ -34,6 +34,70 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#16 - Keyan Kousha: Using Bitcoin to Foster 'Natural Communities' Online w/ Stacker News]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
+				<podcast:valueRecipient name="Keyan" type="node" address="020611a537da761018cf01afefcdc9cb6aefd68d1e85ea269ac1666e4b6371275c" split="50"/>
+			</podcast:value>
+			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/k00bideh" target="_blank">Keyan Kousha</a>, founder of <a href="https://stacker.news/" target="_blank">Stacker News</a>.</p>
+<p>Stacker News is a user-generated, feed-style news platform, modeled after Hacker News, but with the important distinction of having natively-integrated bitcoin lightning payments, as a means of fostering more natural communities (think less spam and antisocial behavior), cultivating high-signal bitcoin content, and providing a better user experience overall.</p>
+<p>Stacker News is still in the very early days of its development, but it's a great showcase of how bitcoin can be used to improve upon an existing model, and in doing so, explore how improved incentives might influence media publishing, monetization, and moderation.</p>
+<p>Keyan is a prime example of someone who caught the bitcoin bug, and just couldn't resist getting involved. The result is a product built with and for bitcoiners, and it was great to have him on the show to explain more about his motivations and ambitions.</p>
+<p>---</p>
+<p>Follow Keyan:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/k00bideh" target="_blank">@k00bideh</a></li>
+ <li>Website: <a href="https://stacker.news/" target="_blank">stacker.news</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="https://www.fountain.fm/" target="_blank">fountain.fm</a></li>
+  <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/16---Keyan-Kousha-Using-Bitcoin-to-Foster-Natural-Communities-Online-w-Stacker-News-e1f25ao</link>
+			<guid isPermaLink="false">e97d709e-4172-4c17-9d9f-91c9dab42f0c</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Tue, 08 Mar 2022 13:27:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/48354072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-2%2F10a9b7fe-cc7a-bf61-b4e4-3840827c9719.mp3" length="80639711" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This episode&apos;s guest is &lt;a href=&quot;https://twitter.com/k00bideh&quot; target=&quot;_blank&quot;&gt;Keyan Kousha&lt;/a&gt;, founder of &lt;a href=&quot;https://stacker.news/&quot; target=&quot;_blank&quot;&gt;Stacker News&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Stacker News is a user-generated, feed-style news platform, modeled after Hacker News, but with the important distinction of having natively-integrated bitcoin lightning payments, as a means of fostering more natural communities (think less spam and antisocial behavior), cultivating high-signal bitcoin content, and providing a better user experience overall.&lt;/p&gt;
+&lt;p&gt;Stacker News is still in the very early days of its development, but it&apos;s a great showcase of how bitcoin can be used to improve upon an existing model, and in doing so, explore how improved incentives might influence media publishing, monetization, and moderation.&lt;/p&gt;
+&lt;p&gt;Keyan is a prime example of someone who caught the bitcoin bug, and just couldn&apos;t resist getting involved. The result is a product built with and for bitcoiners, and it was great to have him on the show to explain more about his motivations and ambitions.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Keyan:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/k00bideh&quot; target=&quot;_blank&quot;&gt;@k00bideh&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://stacker.news/&quot; target=&quot;_blank&quot;&gt;stacker.news&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot; target=&quot;_blank&quot;&gt;fountain.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>5039</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1646084918079-7dc55647fc6d4.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#15 - Oscar Merry: Building the Value4Value Infrastructure]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="50"/>
