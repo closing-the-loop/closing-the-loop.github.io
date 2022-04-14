@@ -87,6 +87,16 @@
   &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot; target=&quot;_blank&quot;&gt;Fountain.FM&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6105</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1648579419386-936f880e1d8b6.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[#17 - Alex Gladstein: Why 'The Money' is the Biggest Missing Piece in the Fight for Human Rights]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
