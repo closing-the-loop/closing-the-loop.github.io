@@ -34,6 +34,72 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#19 - Alex Leishman: The Future of Bitcoin Financial Services]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="10"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+			</podcast:value>
+			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/Leishman" target="_blank">Alex Leishman</a>, founder &amp; CEO of <a href="https://river.com/" target="_blank">River Financial</a>.</p>
+<p>River is a bitcoin-native financial services firm that offers bitcoin acquisition and management products for individuals, as well as a variety of institutions and high-net-worth investors, through their private client services division. They've also recently begun offering a <a href="https://river.com/mining" target="_blank">bitcoin-mining product</a>, which allows their clients to own their own mining hardware and establish regular bitcoin-denominated income, or what's become known as "sats flow," while River takes care of all the work to make it happen.</p>
+<p>In this show, Alex and John have a wide-ranging discussion about the growth of River, the details of their new mining offering, their approach to the lightning network and possible future applications, the notion of social progress, and how we should be thinking about it, becoming a <a href="https://en.wikipedia.org/wiki/Kardashev_scale" target="_blank">Kardashev Type 2 civilization</a>, and much more.</p>
+<p>River represents what is still a very small initial cohort of new financial services companies, which are focussing exclusively on bitcoin, and building out a suite of products and services that allow people to unlock more of its enormous potential.</p>
+<p>In my opinion, Alex and the team at River have built a brand imbued with the bitcoin ethos, which is likely why they are so well respected in the industry, and why it was such a pleasure and an honor for me to have a discussion with him today.</p>
+<p>---</p>
+<p>Follow Alex:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/Leishman">@Leishman</a></li>
+ <li>Website: <a href="https://river.com">River.com</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/">Breez.Technology</a></li>
+  <li><a href="https://www.fountain.fm/">Fountain.FM</a></li>
+  <li><a href="http://newpodcastingapps.com/">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/">Value4Value.io</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/19---Alex-Leishman-The-Future-of-Bitcoin-Financial-Services-e1in4vm</link>
+			<guid isPermaLink="false">db36a6ba-d25a-4ff0-9f14-7408b215e2ba</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Thu, 19 May 2022 10:06:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/52187574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F4af1b73d-c6be-fd3e-92c4-1d4785be3570.mp3" length="224727164" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This episode&apos;s guest is &lt;a href=&quot;https://twitter.com/Leishman&quot; target=&quot;_blank&quot;&gt;Alex Leishman&lt;/a&gt;, founder &amp;amp; CEO of &lt;a href=&quot;https://river.com/&quot; target=&quot;_blank&quot;&gt;River Financial&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;River is a bitcoin-native financial services firm that offers bitcoin acquisition and management products for individuals, as well as a variety of institutions and high-net-worth investors, through their private client services division. They&apos;ve also recently begun offering a &lt;a href=&quot;https://river.com/mining&quot; target=&quot;_blank&quot;&gt;bitcoin-mining product&lt;/a&gt;, which allows their clients to own their own mining hardware and establish regular bitcoin-denominated income, or what&apos;s become known as &quot;sats flow,&quot; while River takes care of all the work to make it happen.&lt;/p&gt;
+&lt;p&gt;In this show, Alex and John have a wide-ranging discussion about the growth of River, the details of their new mining offering, their approach to the lightning network and possible future applications, the notion of social progress, and how we should be thinking about it, becoming a &lt;a href=&quot;https://en.wikipedia.org/wiki/Kardashev_scale&quot; target=&quot;_blank&quot;&gt;Kardashev Type 2 civilization&lt;/a&gt;, and much more.&lt;/p&gt;
+&lt;p&gt;River represents what is still a very small initial cohort of new financial services companies, which are focussing exclusively on bitcoin, and building out a suite of products and services that allow people to unlock more of its enormous potential.&lt;/p&gt;
+&lt;p&gt;In my opinion, Alex and the team at River have built a brand imbued with the bitcoin ethos, which is likely why they are so well respected in the industry, and why it was such a pleasure and an honor for me to have a discussion with him today.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Alex:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/Leishman&quot;&gt;@Leishman&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://river.com&quot;&gt;River.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot;&gt;Fountain.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>5618</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1652888220496-9ebd19b946d86.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#18 - Grant Gilliam: Venture Investing in the Bitcoin-Native Ecosystem w/ Ten31]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02aad0d3f1dafa0e120bf20258bff4b21c90c3d47557124e8035e4d9bd50f4f858" split="10"/>
