@@ -34,6 +34,70 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#23 - Bernard Parah: All-In on the Mission to Bring More Freedom to Africa w/ Bitcoin]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+			</podcast:value>
+			<description><![CDATA[<p>For this episode, our guest is <a href="https://twitter.com/bernard_parah" target="_blank">Bernard Parah</a>. He is the founder and CEO of <a href="https://bitnob.com/" target="_blank">Bitnob</a>, a Nigerian bitcoin exchange &amp; financial services platform.</p>
+<p>We met Bernard recently at the <a href="https://oslofreedomforum.com/" target="_blank">Oslo Freedom Forum</a> in Norway, where we had the chance to hear his story firsthand. His unique perspective on bitcoin, the experience he has gathered when launching Bitnob, and the many fascinating stories he has to share about the challenges of being an entrepreneur in Nigeria make him a unique voice in the ecosystem.</p>
+<p>Bernard's passion, purpose, and dedication to Bitcoin are as contagious as they are impressive, which is why we invited him to share his story on <em>Closing the Loop</em>. We hope that putting a spotlight on Bernard's work and his part of the world shows how empowering and essential Bitcoin truly is, especially in those parts of the world that do not share our <a href="https://bitcoin-resources.com/books/check-your-financial-privilege" target="_blank">financial privilege</a>.</p>
+<p>"Bitcoin treats everyone as equal," to quote Bernard. "It won't fix everything, but it helps tilt the scale."</p>
+<p>---</p>
+<p>Follow Bernard:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/bernard_parah" target="_blank">@bernard_parah</a></li>
+ <li>Website: <a href="https://bitnob.com/" target="_blank">bitnob.com</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+ <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="https://www.fountain.fm/" target="_blank">Fountain.FM</a></li>
+  <li><a href="http://newpodcastapps.com/" target="_blank">NewPodcastApps.com</a></li>
+  <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/23---Bernard-Parah-All-In-on-the-Mission-to-Bring-More-Freedom-to-Africa-w-Bitcoin-e1l68hk</link>
+			<guid isPermaLink="false">b3cba5e4-dcf1-4a55-9355-cbe5c341b8ff</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Wed, 20 Jul 2022 09:06:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/54779892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-13%2F1adddbb9-1317-8b8e-1a3b-e3c0a9229ddc.mp3" length="206998389" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;For this episode, our guest is &lt;a href=&quot;https://twitter.com/bernard_parah&quot; target=&quot;_blank&quot;&gt;Bernard Parah&lt;/a&gt;. He is the founder and CEO of &lt;a href=&quot;https://bitnob.com/&quot; target=&quot;_blank&quot;&gt;Bitnob&lt;/a&gt;, a Nigerian bitcoin exchange &amp;amp; financial services platform.&lt;/p&gt;
+&lt;p&gt;We met Bernard recently at the &lt;a href=&quot;https://oslofreedomforum.com/&quot; target=&quot;_blank&quot;&gt;Oslo Freedom Forum&lt;/a&gt; in Norway, where we had the chance to hear his story firsthand. His unique perspective on bitcoin, the experience he has gathered when launching Bitnob, and the many fascinating stories he has to share about the challenges of being an entrepreneur in Nigeria make him a unique voice in the ecosystem.&lt;/p&gt;
+&lt;p&gt;Bernard&apos;s passion, purpose, and dedication to Bitcoin are as contagious as they are impressive, which is why we invited him to share his story on &lt;em&gt;Closing the Loop&lt;/em&gt;. We hope that putting a spotlight on Bernard&apos;s work and his part of the world shows how empowering and essential Bitcoin truly is, especially in those parts of the world that do not share our &lt;a href=&quot;https://bitcoin-resources.com/books/check-your-financial-privilege&quot; target=&quot;_blank&quot;&gt;financial privilege&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&quot;Bitcoin treats everyone as equal,&quot; to quote Bernard. &quot;It won&apos;t fix everything, but it helps tilt the scale.&quot;&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Bernard:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/bernard_parah&quot; target=&quot;_blank&quot;&gt;@bernard_parah&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://bitnob.com/&quot; target=&quot;_blank&quot;&gt;bitnob.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot; target=&quot;_blank&quot;&gt;Fountain.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6468</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1657729232227-68271ceab93fb.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#22 - Shaun Connell: Bitcoin Mining is the 'Holy Grail' for Power Grids]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
