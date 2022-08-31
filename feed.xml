@@ -34,6 +34,68 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#26 - Lyn Alden: Bitcoin is the Technological Solution We Need]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+			</podcast:value>
+			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/LynAldenContact" target="_blank">Lyn Alden</a>, founder of <a href="https://www.lynalden.com/" target="_blank">Lyn Alden Investment Strategy</a>, board director of <a href="https://www.swanbitcoin.com/" target="_blank">Swan Bitcoin</a>, and advisor to <a href="https://egodeath.capital/" target="_blank">ego death capital</a>.</p>
+<p>Lyn is one of the most highly regarded voices in finance today, both for her excellent commentary on the macroeconomic landscape as well as for her sober, analytical approach to understanding bitcoin. Lyn's ability to distill complex, multi-disciplinary topics into insights that anyone can comprehend has made her a favorite amongst expert investors and humble savers alike.</p>
+<p>With all the recent developments in the bitcoin world, as well as the volatility and uncertainty in all financial markets, we thought it was a perfect time to have a chat with Lyn and get her perspective on what's going on.</p>
+<p>---</p>
+<p>Follow Lyn:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/LynAldenContact" target="_blank">@LynAldenContact</a></li>
+ <li>Website: <a href="https://www.lynalden.com/" target="_blank">lynalden.com</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="https://www.fountain.fm/" target="_blank">Fountain.FM</a></li>
+  <li><a href="http://newpodcastapps.com/" target="_blank">NewPodcastApps.com</a></li>
+  <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/26---Lyn-Alden-Bitcoin-is-the-Technological-Solution-We-Need-e1n2tcs</link>
+			<guid isPermaLink="false">a9f9409c-a1bf-4025-98b3-7623e294b5d7</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Wed, 31 Aug 2022 08:27:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/56767324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-29%2Fa6768dd1-91b5-76b7-7ac5-1309b327e552.mp3" length="227449861" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Today&apos;s guest is &lt;a href=&quot;https://twitter.com/LynAldenContact&quot; target=&quot;_blank&quot;&gt;Lyn Alden&lt;/a&gt;, founder of &lt;a href=&quot;https://www.lynalden.com/&quot; target=&quot;_blank&quot;&gt;Lyn Alden Investment Strategy&lt;/a&gt;, board director of &lt;a href=&quot;https://www.swanbitcoin.com/&quot; target=&quot;_blank&quot;&gt;Swan Bitcoin&lt;/a&gt;, and advisor to &lt;a href=&quot;https://egodeath.capital/&quot; target=&quot;_blank&quot;&gt;ego death capital&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lyn is one of the most highly regarded voices in finance today, both for her excellent commentary on the macroeconomic landscape as well as for her sober, analytical approach to understanding bitcoin. Lyn&apos;s ability to distill complex, multi-disciplinary topics into insights that anyone can comprehend has made her a favorite amongst expert investors and humble savers alike.&lt;/p&gt;
+&lt;p&gt;With all the recent developments in the bitcoin world, as well as the volatility and uncertainty in all financial markets, we thought it was a perfect time to have a chat with Lyn and get her perspective on what&apos;s going on.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Lyn:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/LynAldenContact&quot; target=&quot;_blank&quot;&gt;@LynAldenContact&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.lynalden.com/&quot; target=&quot;_blank&quot;&gt;lynalden.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot; target=&quot;_blank&quot;&gt;Fountain.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:15:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1661717228917-66ba101c28b1b.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#25 - Gigi: Bitcoin Offers Deep Stability]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="50"/>
