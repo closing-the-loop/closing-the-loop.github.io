@@ -34,6 +34,68 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#27 - Jean Amiouny: Bringing Canadians into the 'Bitcoin Golden Age']]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+			</podcast:value>
+			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/aiouy" target="_blank">Jean Amiouny</a>, co-founder and CEO of Canadian bitcoin exchange, <a href="https://shakepay.com/" target="_blank">Shakepay</a>.</p>
+<p>Launched in 2015, Shakepay has become one of the most popular ways to buy bitcoin in Canada, with $7 billion in transaction volume and over one million Canadians signed up to the platform.</p>
+<p>As you'll hear in this discussion, while their current focus is on making it as easy as possible for Canadians to accumulate bitcoin, they have much bigger aspirations of ultimately taking on the five big legacy banks in Canada, re-creating the financial system on top of bitcoin, and ushering in what they call the "bitcoin golden age."</p>
+<p>---</p>
+<p>Follow Jean:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/aiouy" target="_blank">@aiouy</a></li>
+ <li>Website: <a href="https://shakepay.com/" target="_blank">shakepay.com</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="https://www.fountain.fm/" target="_blank">Fountain.FM</a></li>
+  <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/" target="_blank">Value4Value.io</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/27---Jean-Amiouny-Bringing-Canadians-into-the-Bitcoin-Golden-Age-e1l3oo8</link>
+			<guid isPermaLink="false">3644281e-e50c-4a7c-b226-e321b946fd54</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Thu, 08 Sep 2022 10:25:16 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/54698184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-11%2F03233bbb-8730-b61b-b2d9-f05e2b7e1ccd.mp3" length="209781997" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This episode&apos;s guest is &lt;a href=&quot;https://twitter.com/aiouy&quot; target=&quot;_blank&quot;&gt;Jean Amiouny&lt;/a&gt;, co-founder and CEO of Canadian bitcoin exchange, &lt;a href=&quot;https://shakepay.com/&quot; target=&quot;_blank&quot;&gt;Shakepay&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Launched in 2015, Shakepay has become one of the most popular ways to buy bitcoin in Canada, with $7 billion in transaction volume and over one million Canadians signed up to the platform.&lt;/p&gt;
+&lt;p&gt;As you&apos;ll hear in this discussion, while their current focus is on making it as easy as possible for Canadians to accumulate bitcoin, they have much bigger aspirations of ultimately taking on the five big legacy banks in Canada, re-creating the financial system on top of bitcoin, and ushering in what they call the &quot;bitcoin golden age.&quot;&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Jean:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/aiouy&quot; target=&quot;_blank&quot;&gt;@aiouy&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://shakepay.com/&quot; target=&quot;_blank&quot;&gt;shakepay.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot; target=&quot;_blank&quot;&gt;Fountain.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot; target=&quot;_blank&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:49:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1657663459814-8a2cac5a6758b.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#26 - Lyn Alden: Bitcoin is the Technological Solution We Need]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
