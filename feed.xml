@@ -35,6 +35,10 @@
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
 			<title><![CDATA[#29 - Abubakar Nur Khalil: Building, Investing, and Training the Next Generation of Bitcoin Developers in Africa]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="OpenSats General Fund (Donations)" type="node" address="037c862ec724bc85462aaeb804dd0941cd77dc4521cabd05edf3d0f23ed6b01f09" split="90"/>
+			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/ihate1999" target="_blank">Abubakar Nur Khalil</a>, a contributor to <a href="https://github.com/bitcoin/bitcoin" target="_blank">bitcoin core</a> and co-founder of <a href="https://qala.dev/" target="_blank">Qala</a>, a non-profit focused on training the next generation of bitcoin and lightning developers in Africa.</p>
 <p>He is also the CEO of <a href="https://rcrsv.xyz/" target="_blank">Recursive Capital</a>, a venture capital fund focused on funding African bitcoin startups. Finally, Abubakar is a founding member of <a href="https://github.com/btrustteam" target="_blank">B Trust</a>, a non-profit funded by <a href="https://twitter.com/jack" target="_blank">Jack Dorsey</a> and <a href="https://twitter.com/sc" target="_blank">Jay-Z</a>, with the stated purpose of supporting the people and initiatives working to decentralize bitcoin development further.</p>
 <p>Though still relatively young, Abubakar's accomplishments in the bitcoin space are substantial. His curiosity, dedication, and humility with which he approaches life shine through in his work and this discussion.</p>
