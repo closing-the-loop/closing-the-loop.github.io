@@ -34,6 +34,72 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#31 - Jason Les: Surviving and Thriving as a Publicly Traded Bitcoin Mining Company]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+			</podcast:value>
+			<description><![CDATA[<p>Our guest today is <a href="https://twitter.com/JasonLes_">Jason Les</a>, CEO of <a href="https://www.riotblockchain.com">Riot Blockchain</a>.</p>
+<p>Riot is one of the largest <a href="https://www.marketwatch.com/investing/stock/riot">publicly traded</a> bitcoin miners in the world, with a current hash rate capacity of 4.8EH/s, and an expected self-mining capacity of 12.6EH/s by Q1 2023.</p>
+<p>The bitcoin mining industry is notoriously competitive, and that is especially the case right now in the fall of 2022, as a confluence of factors conspire to reveal which among the current operators are capable of weathering the storm.</p>
+<p>As such, I thought now would be a perfect time to have Jason on to discuss his story, how he thinks about building successful bitcoin mining operations, as well as the broad and massive implications of this burgeoning new industry.</p>
+<p>Enjoy!</p>
+<p>---</p>
+<p>Follow Jason:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/JasonLes_">@JasonLes_</a></li>
+ <li>Website: <a href="https://www.riotblockchain.com">riotblockchain.com</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/">Breez.Technology</a></li>
+  <li><a href="https://www.fountain.fm/">Fountain.FM</a></li>
+  <li><a href="http://newpodcastingapps.com/">NewPodcastingApps.com</a></li>
+  <li><a href="http://value4value.io/">Value4Value.io</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/31---Jason-Les-Surviving-and-Thriving-as-a-Publicly-Traded-Bitcoin-Mining-Company-e1q2ven</link>
+			<guid isPermaLink="false">51a42e80-d4d6-49f7-ab14-f67b54ac5097</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Wed, 02 Nov 2022 17:44:46 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/59915159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2Fe4c19cba-538f-e437-c7ce-445e806392a7.mp3" length="193611992" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest today is &lt;a href=&quot;https://twitter.com/JasonLes_&quot;&gt;Jason Les&lt;/a&gt;, CEO of &lt;a href=&quot;https://www.riotblockchain.com&quot;&gt;Riot Blockchain&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Riot is one of the largest &lt;a href=&quot;https://www.marketwatch.com/investing/stock/riot&quot;&gt;publicly traded&lt;/a&gt; bitcoin miners in the world, with a current hash rate capacity of 4.8EH/s, and an expected self-mining capacity of 12.6EH/s by Q1 2023.&lt;/p&gt;
+&lt;p&gt;The bitcoin mining industry is notoriously competitive, and that is especially the case right now in the fall of 2022, as a confluence of factors conspire to reveal which among the current operators are capable of weathering the storm.&lt;/p&gt;
+&lt;p&gt;As such, I thought now would be a perfect time to have Jason on to discuss his story, how he thinks about building successful bitcoin mining operations, as well as the broad and massive implications of this burgeoning new industry.&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Jason:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/JasonLes_&quot;&gt;@JasonLes_&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://www.riotblockchain.com&quot;&gt;riotblockchain.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot;&gt;Fountain.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://value4value.io/&quot;&gt;Value4Value.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:40:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1667324888673-a864bf1f4f503.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#30 - Prince Filip of Serbia: The Merits of Monarchy, The Liberating Power of Bitcoin, and The History of the House of Karađorđević]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
