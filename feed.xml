@@ -34,6 +34,70 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#32 - Jeff Booth: Bitcoin is the Answer to a Broken System]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
+			</podcast:value>
+			<description><![CDATA[<p>Today’s guest is <a href="https://twitter.com/JeffBooth">Jeff Booth</a>, a serial technology entrepreneur, advisor and board member to multiple businesses and organizations, and the author of the very popular book, ‘<a href="https://www.amazon.com/Price-Tomorrow-Deflation-Abundant-Future/dp/1999257405/ref=sr_1_2?keywords=the+price+of+tomorrow&amp;qid=1574403883&amp;sr=8-2">The Price of Tomorrow: Why Deflation is the Key to an Abundant Future</a>'.</p>
+<p>Jeff is also a prolific speaker and advocate for bitcoin, educating people in all parts of the world, about the nature of the problems we all face, and how bitcoin is an essential tool for resolving them.</p>
+<p>Finally, to further enhance his impact, Jeff recently founded <a href="https://egodeath.capital">ego death capital</a>, a venture fund which invests in companies in the bitcoin ecosystem, thereby accelerating the transition to what he likes to call, ‘a world of greater truth, hope and abundance.’</p>
+<p>Enjoy!</p>
+<p>---</p>
+<p>Follow Jeff:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/JeffBooth">@JeffBooth</a></li>
+ <li>Website: <a href="https://twitter.com/EgoDeathCapital">egodeath.capital</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/">Breez.Technology</a></li>
+  <li><a href="https://www.fountain.fm/">Fountain.FM</a></li>
+  <li><a href="http://newpodcastingapps.com/">NewPodcastingApps.com</a></li>
+  <li><a href="https://value4value.info/" target="_blank">Value4Value.info</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/32---Jeff-Booth-Bitcoin-is-the-Answer-to-a-Broken-System-e1qer8k</link>
+			<guid isPermaLink="false">102128b5-2788-4c03-86c9-8a0cd7bca3a1</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Wed, 16 Nov 2022 15:53:33 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/60304084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-8%2F5693b5fc-ac4f-ff9c-66bb-4b2fce32fcf1.mp3" length="211574204" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Today’s guest is &lt;a href=&quot;https://twitter.com/JeffBooth&quot;&gt;Jeff Booth&lt;/a&gt;, a serial technology entrepreneur, advisor and board member to multiple businesses and organizations, and the author of the very popular book, ‘&lt;a href=&quot;https://www.amazon.com/Price-Tomorrow-Deflation-Abundant-Future/dp/1999257405/ref=sr_1_2?keywords=the+price+of+tomorrow&amp;amp;qid=1574403883&amp;amp;sr=8-2&quot;&gt;The Price of Tomorrow: Why Deflation is the Key to an Abundant Future&lt;/a&gt;&apos;.&lt;/p&gt;
+&lt;p&gt;Jeff is also a prolific speaker and advocate for bitcoin, educating people in all parts of the world, about the nature of the problems we all face, and how bitcoin is an essential tool for resolving them.&lt;/p&gt;
+&lt;p&gt;Finally, to further enhance his impact, Jeff recently founded &lt;a href=&quot;https://egodeath.capital&quot;&gt;ego death capital&lt;/a&gt;, a venture fund which invests in companies in the bitcoin ecosystem, thereby accelerating the transition to what he likes to call, ‘a world of greater truth, hope and abundance.’&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Jeff:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/JeffBooth&quot;&gt;@JeffBooth&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Website: &lt;a href=&quot;https://twitter.com/EgoDeathCapital&quot;&gt;egodeath.capital&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot;&gt;Fountain.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://value4value.info/&quot; target=&quot;_blank&quot;&gt;Value4Value.info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:05:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1667939699034-671a938bec97c.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#31 - Jason Les: Surviving and Thriving as a Publicly Traded Bitcoin Mining Company]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
