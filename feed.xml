@@ -9,10 +9,6 @@
 			<podcast:valueRecipient name="Fountain Onboarding Fund" type="node" address="033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500"  customKey="696969" customValue="wal_iPePcPFHmFx0KX" split="21"/>
 		</podcast:value>
 		<title><![CDATA[Closing the Loop]]></title>
-			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
-				<podcast:valueRecipient name="Human Rights Foundation" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
-			</podcast:value>
 		<description><![CDATA[Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!]]></description>
 		<link>https://www.seetee.io/</link>
 		<image>
@@ -39,6 +35,10 @@
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
 			<title><![CDATA[#33 - Matt Hill: The Era of 'Sovereign Computing' is Here]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="OpenSats for BTCPay Server (Donations)" type="node" address="037c862ec724bc85462aaeb804dd0941cd77dc4521cabd05edf3d0f23ed6b01f09" split="90"/>
+			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/_MattHill_">Matt Hill</a>, co-founder and CEO of <a href="https://start9.com">Start9 Labs</a>, a leading pioneer in what he calls ‘Sovereign Computing.’</p>
 <p>In today’s world, many have become accustomed to using third-party platforms to interact online, host their data, and much else, but as the saying goes, ‘the cloud is just someone else’s computer.’</p>
 <p>As a result of this, there is no true privacy, anyone can be censored, and data honeypots exist everywhere for dishonest or malicious actors to exploit.</p>
