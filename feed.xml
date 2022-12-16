@@ -34,6 +34,74 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#34 - Patrick O'Sullivan: 'Bitcoin Makes Baseball Better' w/ The World's First Chief Bitcoin Officer]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="OpenSats for BTCPay Server (Donations)" type="node" address="037c862ec724bc85462aaeb804dd0941cd77dc4521cabd05edf3d0f23ed6b01f09" split="90"/>
+			</podcast:value>
+			<description><![CDATA[<p>Our guest today is <a href="https://twitter.com/CBO_21">Patrick O’Sullivan</a>, the world’s first 'Chief Bitcoin Officer', for the Australian Baseball League club, <a href="https://perthheat.com.au">The Perth Heat</a>.</p>
+<p>In late 2021, Patrick convinced the organization to shift to a full 'bitcoin standard', and since then, they’ve been experimenting with all the ways in which they can leverage the benefits of bitcoin, to bring a higher-quality and more rewarding experience to players and spectators alike.</p>
+<p>Recently, grounded in a firm belief in the merits and possibilities of the bitcoin-enabled '<a href="https://dergigi.com/2021/12/30/the-freedom-of-value/">value-for-value</a>' philosophy, the team has launched what their calling '<a href="https://perthheat.com.au/sats4stats/">sats4stats</a>', where live or online spectators can send bitcoin payments directly to players, for whatever reason, in real-time!</p>
+<p>Patrick and the whole crew at the Perth Heat not only believe that their club will reap substantial rewards by being first in pursuing this strategy, but also that their pioneering work will inspire others to do the same, and in time, completely revolutionize the world of spectator sports.</p>
+<p>Enjoy!</p>
+<p>---</p>
+<p>Follow Patrick and The Perth Heat:</p>
+<ul>
+ <li>Twitter (Patrick): <a href="https://twitter.com/CBO_21">@CBO_21</a></li>
+ <li>Twitter (Perth Heat): <a href="https://twitter.com/PerthHeat">@PerthHeat</a></li>
+  <li>Website: <a href="https://perthheat.com.au/bitcoin/">perthheat.com.au</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/">Breez.Technology</a></li>
+  <li><a href="https://www.fountain.fm/">Fountain.FM</a></li>
+  <li><a href="http://newpodcastingapps.com/">NewPodcastingApps.com</a></li>
+  <li><a href="https://value4value.info/">Value4Value.info</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/34---Patrick-OSullivan-Bitcoin-Makes-Baseball-Better-w-The-Worlds-First-Chief-Bitcoin-Officer-e1rtpl5</link>
+			<guid isPermaLink="false">5b03cccc-0178-4970-b858-1362011d088a</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Fri, 16 Dec 2022 14:00:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/61842533/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-7%2Fd4fa5e36-a9c1-bb82-2f2e-f96e4b77d14f.mp3" length="213574559" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Our guest today is &lt;a href=&quot;https://twitter.com/CBO_21&quot;&gt;Patrick O’Sullivan&lt;/a&gt;, the world’s first &apos;Chief Bitcoin Officer&apos;, for the Australian Baseball League club, &lt;a href=&quot;https://perthheat.com.au&quot;&gt;The Perth Heat&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In late 2021, Patrick convinced the organization to shift to a full &apos;bitcoin standard&apos;, and since then, they’ve been experimenting with all the ways in which they can leverage the benefits of bitcoin, to bring a higher-quality and more rewarding experience to players and spectators alike.&lt;/p&gt;
+&lt;p&gt;Recently, grounded in a firm belief in the merits and possibilities of the bitcoin-enabled &apos;&lt;a href=&quot;https://dergigi.com/2021/12/30/the-freedom-of-value/&quot;&gt;value-for-value&lt;/a&gt;&apos; philosophy, the team has launched what their calling &apos;&lt;a href=&quot;https://perthheat.com.au/sats4stats/&quot;&gt;sats4stats&lt;/a&gt;&apos;, where live or online spectators can send bitcoin payments directly to players, for whatever reason, in real-time!&lt;/p&gt;
+&lt;p&gt;Patrick and the whole crew at the Perth Heat not only believe that their club will reap substantial rewards by being first in pursuing this strategy, but also that their pioneering work will inspire others to do the same, and in time, completely revolutionize the world of spectator sports.&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Patrick and The Perth Heat:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter (Patrick): &lt;a href=&quot;https://twitter.com/CBO_21&quot;&gt;@CBO_21&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Twitter (Perth Heat): &lt;a href=&quot;https://twitter.com/PerthHeat&quot;&gt;@PerthHeat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://perthheat.com.au/bitcoin/&quot;&gt;perthheat.com.au&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot;&gt;Fountain.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://value4value.info/&quot;&gt;Value4Value.info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:51:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#33 - Matt Hill: The Era of 'Sovereign Computing' is Here]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
