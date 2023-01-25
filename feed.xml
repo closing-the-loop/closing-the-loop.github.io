@@ -34,6 +34,74 @@
 		<itunes:category text="Technology"/>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/16332652/16332652-1642434271703-f674311733ede.jpg"/>
 		<item>
+			<title><![CDATA[#36 - Francis Pouliot: Bitcoin is a Life Raft]]></title>
+			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="Bitcoin Jungle (Donations)" type="node" address="03797da684da0b6de8a813f9d7ebb0412c5d7504619b3fa5255861b991a7f86960" split="90"/>
+			</podcast:value>
+			<description><![CDATA[<p>For our final episode of season three, we were excited to have <a href="https://twitter.com/francispouliot_" target="_blank">Francis Pouliot</a> join us for a discussion.</p>
+<p>Francis is the founder and CEO of <a href="https://www.bullbitcoin.com/" target="_blank">Bull Bitcoin</a>, a popular <a href="https://dergigi.com/2022/06/27/the-words-we-use-in-bitcoin/" target="_blank">'non-custodial'</a> bitcoin exchange and payment service in Canada. He has been heavily involved in the bitcoin industry since 2013, helping people understand and use bitcoin from the earliest days of Montreal's Bitcoin Embassy to Costa Rica's <a href="https://www.bitcoinjungle.app/" target="_blank">Bitcoin Jungle</a> today.</p>
+<p>In that time, he has accrued a wealth of knowledge and experience, which in addition to his uniquely principled approach to things, has made him a popular and respected voice in the bitcoin space.</p>
+<p>Personally, I've always appreciated his reverence for the truth, his dedication to doing what he believes to be right, and the ideas, arguments, and products which have emerged from that approach. Including his company Bull Bitcoin, which, full disclosure, I'm a happy customer of.</p>
+<p>Enjoy!</p>
+<p>---</p>
+<p>Follow Francis and Bull:</p>
+<ul>
+ <li>Twitter (Francis): <a href="https://twitter.com/francispouliot_" target="_blank">@francispouliot_</a></li>
+ <li>Twitter (Bull Bitcoin): <a href="https://twitter.com/BullBitcoin_" target="_blank">@BullBitcoin_</a></li>
+  <li>Website: <a href="https://www.bullbitcoin.com/" target="_blank">bullbitcoin.com</a></li>
+</ul>
+<p>Follow John &amp; Seetee:</p>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/johnkvallis" target="_blank">@johnkvallis</a> &amp; <a href="https://twitter.com/Seetee_io" target="_blank">@Seetee_io</a></li>
+  <li>Website: <a href="https://www.seetee.io/" target="_blank">seetee.io</a></li>
+</ul>
+<p>Use Podcasting 2.0:</p>
+<ul>
+  <li><a href="https://breez.technology/" target="_blank">Breez.Technology</a></li>
+  <li><a href="https://www.fountain.fm/" target="_blank">Fountain.FM</a></li>
+  <li><a href="http://newpodcastingapps.com/" target="_blank">NewPodcastingApps.com</a></li>
+  <li><a href="https://value4value.info/" target="_blank">Value4Value.info</a></li>
+</ul>
+]]></description>
+			<link>https://anchor.fm/closingtheloop/episodes/36---Francis-Pouliot-Bitcoin-is-a-Life-Raft-e1tv2h7</link>
+			<guid isPermaLink="false">ea1696af-4996-42a2-a2a9-17107467e7a7</guid>
+			<dc:creator><![CDATA[John Vallis]]></dc:creator>
+			<pubDate>Wed, 25 Jan 2023 09:33:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/61f23cb0/podcast/play/63981543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-24%2F002e4ff5-2bb8-61c2-e4e7-0778e02192d1.mp3" length="227393539" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;For our final episode of season three, we were excited to have &lt;a href=&quot;https://twitter.com/francispouliot_&quot; target=&quot;_blank&quot;&gt;Francis Pouliot&lt;/a&gt; join us for a discussion.&lt;/p&gt;
+&lt;p&gt;Francis is the founder and CEO of &lt;a href=&quot;https://www.bullbitcoin.com/&quot; target=&quot;_blank&quot;&gt;Bull Bitcoin&lt;/a&gt;, a popular &lt;a href=&quot;https://dergigi.com/2022/06/27/the-words-we-use-in-bitcoin/&quot; target=&quot;_blank&quot;&gt;&apos;non-custodial&apos;&lt;/a&gt; bitcoin exchange and payment service in Canada. He has been heavily involved in the bitcoin industry since 2013, helping people understand and use bitcoin from the earliest days of Montreal&apos;s Bitcoin Embassy to Costa Rica&apos;s &lt;a href=&quot;https://www.bitcoinjungle.app/&quot; target=&quot;_blank&quot;&gt;Bitcoin Jungle&lt;/a&gt; today.&lt;/p&gt;
+&lt;p&gt;In that time, he has accrued a wealth of knowledge and experience, which in addition to his uniquely principled approach to things, has made him a popular and respected voice in the bitcoin space.&lt;/p&gt;
+&lt;p&gt;Personally, I&apos;ve always appreciated his reverence for the truth, his dedication to doing what he believes to be right, and the ideas, arguments, and products which have emerged from that approach. Including his company Bull Bitcoin, which, full disclosure, I&apos;m a happy customer of.&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Follow Francis and Bull:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter (Francis): &lt;a href=&quot;https://twitter.com/francispouliot_&quot; target=&quot;_blank&quot;&gt;@francispouliot_&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Twitter (Bull Bitcoin): &lt;a href=&quot;https://twitter.com/BullBitcoin_&quot; target=&quot;_blank&quot;&gt;@BullBitcoin_&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.bullbitcoin.com/&quot; target=&quot;_blank&quot;&gt;bullbitcoin.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Follow John &amp;amp; Seetee:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/johnkvallis&quot; target=&quot;_blank&quot;&gt;@johnkvallis&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Seetee_io&quot; target=&quot;_blank&quot;&gt;@Seetee_io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.seetee.io/&quot; target=&quot;_blank&quot;&gt;seetee.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Podcasting 2.0:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://breez.technology/&quot; target=&quot;_blank&quot;&gt;Breez.Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fountain.fm/&quot; target=&quot;_blank&quot;&gt;Fountain.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newpodcastingapps.com/&quot; target=&quot;_blank&quot;&gt;NewPodcastingApps.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://value4value.info/&quot; target=&quot;_blank&quot;&gt;Value4Value.info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>02:37:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/16332652/16332652-1674592717976-ac685388ce8ad.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
 			<title><![CDATA[#35 - Ray Youssef: Bitcoin is on the Right Side of History]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
