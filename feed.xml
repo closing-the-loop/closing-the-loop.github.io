@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
 		<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-			<podcast:valueRecipient name="John" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="21"/>
+			<podcast:valueRecipient name="John" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="21"/>
 			<podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="21"/>
 			<podcast:valueRecipient name="Badders" type="node" address="021ce28b653fcb00d6e2e0aee00dba8cb1e20be90415bec44037f908cd869d9f88" split="21"/>
 			<podcast:valueRecipient name="Human Rights Foundation" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="21"/>
@@ -36,7 +36,7 @@
 		<item>
 			<title><![CDATA[#36 - Francis Pouliot: Bitcoin is a Life Raft]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Bitcoin Jungle (Donations)" type="node" address="03797da684da0b6de8a813f9d7ebb0412c5d7504619b3fa5255861b991a7f86960" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>For our final episode of season three, we were excited to have <a href="https://twitter.com/francispouliot_" target="_blank">Francis Pouliot</a> join us for a discussion.</p>
@@ -104,7 +104,7 @@
 		<item>
 			<title><![CDATA[#35 - Ray Youssef: Bitcoin is on the Right Side of History]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>In this episode of Closing The Loop, we’re honored to have <a href="https://twitter.com/raypaxful" target="_blank">Ray Youssef</a> join us for a discussion.</p>
@@ -174,7 +174,7 @@
 		<item>
 			<title><![CDATA[#34 - Patrick O'Sullivan: 'Bitcoin Makes Baseball Better' w/ The World's First Chief Bitcoin Officer]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="OpenSats for BTCPay Server (Donations)" type="node" address="037c862ec724bc85462aaeb804dd0941cd77dc4521cabd05edf3d0f23ed6b01f09" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>Our guest today is <a href="https://twitter.com/CBO_21">Patrick O’Sullivan</a>, the world’s first 'Chief Bitcoin Officer', for the Australian Baseball League club, <a href="https://perthheat.com.au">The Perth Heat</a>.</p>
@@ -242,7 +242,7 @@
 		<item>
 			<title><![CDATA[#33 - Matt Hill: The Era of 'Sovereign Computing' is Here]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="OpenSats for BTCPay Server (Donations)" type="node" address="037c862ec724bc85462aaeb804dd0941cd77dc4521cabd05edf3d0f23ed6b01f09" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/_MattHill_">Matt Hill</a>, co-founder and CEO of <a href="https://start9.com">Start9 Labs</a>, a leading pioneer in what he calls ‘Sovereign Computing.’</p>
@@ -306,7 +306,7 @@
 		<item>
 			<title><![CDATA[#32 - Jeff Booth: Bitcoin is the Answer to a Broken System]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today’s guest is <a href="https://twitter.com/JeffBooth">Jeff Booth</a>, a serial technology entrepreneur, advisor and board member to multiple businesses and organizations, and the author of the very popular book, ‘<a href="https://www.amazon.com/Price-Tomorrow-Deflation-Abundant-Future/dp/1999257405/ref=sr_1_2?keywords=the+price+of+tomorrow&amp;qid=1574403883&amp;sr=8-2">The Price of Tomorrow: Why Deflation is the Key to an Abundant Future</a>'.</p>
@@ -370,7 +370,7 @@
 		<item>
 			<title><![CDATA[#31 - Jason Les: Surviving and Thriving as a Publicly Traded Bitcoin Mining Company]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>Our guest today is <a href="https://twitter.com/JasonLes_">Jason Les</a>, CEO of <a href="https://www.riotblockchain.com">Riot Blockchain</a>.</p>
@@ -436,7 +436,7 @@
 		<item>
 			<title><![CDATA[#30 - Prince Filip of Serbia: The Merits of Monarchy, The Liberating Power of Bitcoin, and The History of the House of Karađorđević]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>Our guest today is <a href="https://twitter.com/PrincFilip1">Prince Filip Karađorđević</a>, Hereditary Prince of Serbia and Yugoslavia, and Chief Strategy Officer of <a href="https://twitter.com/JAN3com">Jan 3</a>, a digital infrastructure company focused on expanding access to bitcoin technology, and accelerating <a href="https://nakamotoinstitute.org/mempool/hyperbitcoinization/">hyperbitcoinization</a>.</p>
@@ -498,7 +498,7 @@
 		<item>
 			<title><![CDATA[#29 - Abubakar Nur Khalil: Building, Investing, and Training the Next Generation of Bitcoin Developers in Africa]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="OpenSats General Fund (Donations)" type="node" address="037c862ec724bc85462aaeb804dd0941cd77dc4521cabd05edf3d0f23ed6b01f09" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/ihate1999" target="_blank">Abubakar Nur Khalil</a>, a contributor to <a href="https://github.com/bitcoin/bitcoin" target="_blank">bitcoin core</a> and co-founder of <a href="https://qala.dev/" target="_blank">Qala</a>, a non-profit focused on training the next generation of bitcoin and lightning developers in Africa.</p>
@@ -560,7 +560,7 @@
 		<item>
 			<title><![CDATA[#28 - Brent Whitehead: The Giga Energy Story and Bitcoin as the Ultimate Incentive for Revolutionizing the Energy Industry]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today’s guest is <a href="https://twitter.com/B_whitehead21" target="_blank">Brent Whitehead</a>, co-founder of <a href="https://twitter.com/GigaEnergy_" target="_blank">Giga Energy</a>, a company that builds, operates, and sells equipment for off-grid bitcoin mining operations.</p>
@@ -626,7 +626,7 @@
 		<item>
 			<title><![CDATA[#27 - Jean Amiouny: Bringing Canadians into the 'Bitcoin Golden Age']]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/aiouy" target="_blank">Jean Amiouny</a>, co-founder and CEO of Canadian bitcoin exchange, <a href="https://shakepay.com/" target="_blank">Shakepay</a>.</p>
@@ -688,7 +688,7 @@
 		<item>
 			<title><![CDATA[#26 - Lyn Alden: Bitcoin is the Technological Solution We Need]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/LynAldenContact" target="_blank">Lyn Alden</a>, founder of <a href="https://www.lynalden.com/" target="_blank">Lyn Alden Investment Strategy</a>, board director of <a href="https://www.swanbitcoin.com/" target="_blank">Swan Bitcoin</a>, and advisor to <a href="https://egodeath.capital/" target="_blank">ego death capital</a>.</p>
@@ -750,7 +750,7 @@
 		<item>
 			<title><![CDATA[#25 - Gigi: Bitcoin Offers Deep Stability]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 				<podcast:valueRecipient name="Gigi (Guest)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>Welcome to Season 3 of <a href="https://www.seetee.io/podcast/" target="_blank">Closing the Loop</a>!</p>
@@ -812,7 +812,7 @@
 		<item>
 			<title><![CDATA[#24 - Leopoldo López: A Life-Long Struggle for Freedom in Venezuela]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>Our guest today is <a href="https://twitter.com/leopoldolopez" target="_blank">Leopoldo López</a>, a democracy activist, former political prisoner of the Maduro government, and national coordinator of the <a href="https://voluntadpopular.com/" target="_blank">'Voluntad Popular'</a> political party in Venezuela.</p>
@@ -878,7 +878,7 @@
 		<item>
 			<title><![CDATA[#23 - Bernard Parah: All-In on the Mission to Bring More Freedom to Africa w/ Bitcoin]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>For this episode, our guest is <a href="https://twitter.com/bernard_parah" target="_blank">Bernard Parah</a>. He is the founder and CEO of <a href="https://bitnob.com/" target="_blank">Bitnob</a>, a Nigerian bitcoin exchange &amp; financial services platform.</p>
@@ -942,7 +942,7 @@
 		<item>
 			<title><![CDATA[#22 - Shaun Connell: Bitcoin Mining is the 'Holy Grail' for Power Grids]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/ShaunEnergy" target="_blank">Shaun Connell</a>, Executive Vice President of Power at <a href="https://lancium.com/" target="_blank">Lancium</a>.</p>
@@ -1006,7 +1006,7 @@
 		<item>
 			<title><![CDATA[#21 - Farida Nabourema: Bitcoin and the Multi-Generational Struggle for Democracy & Human Rights in Togo]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/Farida_N" target="_blank">Farida Nabourema</a>, a social activist and writer, who since being a teenager, has been a fearless advocate for democracy and human rights in her native <a href="https://en.wikipedia.org/wiki/Togo" target="_blank">Togo</a>.</p>
@@ -1068,7 +1068,7 @@
 		<item>
 			<title><![CDATA[#20 - Bob Burnett: 'Wild Mining' & Bringing the Market to the Molecule]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/boomer_btc">Bob Burnett</a>, chairman and CEO at <a href="https://www.barefootmining.com">Barefoot mining</a>.</p>
@@ -1132,7 +1132,7 @@
 		<item>
 			<title><![CDATA[#19 - Alex Leishman: The Future of Bitcoin Financial Services]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/Leishman" target="_blank">Alex Leishman</a>, founder &amp; CEO of <a href="https://river.com/" target="_blank">River Financial</a>.</p>
@@ -1198,7 +1198,7 @@
 		<item>
 			<title><![CDATA[#18 - Grant Gilliam: Venture Investing in the Bitcoin-Native Ecosystem w/ Ten31]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/GRANTGILLIAMBTC" target="_blank">Grant Gilliam</a>, co-founder and managing partner of <a href="https://ten31.vc/" target="_blank">Ten 31</a>.</p>
@@ -1262,7 +1262,7 @@
 		<item>
 			<title><![CDATA[#17 - Alex Gladstein: Why 'The Money' is the Biggest Missing Piece in the Fight for Human Rights]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="21"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="21"/>
 				<podcast:valueRecipient name="Human Rights Foundation" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="100"/>
 			</podcast:value>
 			<description><![CDATA[<p>Our guest today is <a href="https://twitter.com/gladstein">Alex Gladstein</a>. Alex is the Vice President of Strategy for the <a href="https://oslofreedomforum.com">Oslo Freedom Forum</a>, and the Chief Strategy Officer of the <a href="https://hrf.org">Human Rights Foundation</a>, a non-partisan, non-profit organization that promotes and protects human rights globally.</p>
@@ -1328,7 +1328,7 @@
 		<item>
 			<title><![CDATA[#16 - Keyan Kousha: Using Bitcoin to Foster 'Natural Communities' Online w/ Stacker News]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 				<podcast:valueRecipient name="Keyan" type="node" address="020611a537da761018cf01afefcdc9cb6aefd68d1e85ea269ac1666e4b6371275c" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/k00bideh" target="_blank">Keyan Kousha</a>, founder of <a href="https://stacker.news/" target="_blank">Stacker News</a>.</p>
@@ -1392,7 +1392,7 @@
 		<item>
 			<title><![CDATA[#15 - Oscar Merry: Building the Value4Value Infrastructure]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 				<podcast:valueRecipient name="Fountain Onboarding Fund" type="node" address="033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500"  customKey="696969" customValue="wal_iPePcPFHmFx0KX" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/MerryOscar" target="_blank">Oscar Merry</a>, co-founder of <a href="https://www.fountain.fm/" target="_blank">Fountain</a>, a popular Podcasting 2.0 app for sharing clips of your favorite podcast segments. The app is also value4value enabled, which means that it allows you to support your favorite show directly, by streaming and <a href="https://www.seetee.io/blog/2022-01-31-whats-in-a-boostagram/" target="_blank">boosting</a> sats.</p>
@@ -1464,7 +1464,7 @@
 		<item>
 			<title><![CDATA[#14 - Rodolfo Novak: A Decade of Bitcoin Entrepreneurship]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/nvk/" target="_blank">Rodolfo Novak</a>, co-founder and CEO of Coinkite, a popular bitcoin hardware manufacturing business, which has produced such classic products as the <a href="https://coldcard.com/" target="_blank">COLDCARD</a> hardware wallet, the <a href="https://opendime.com/" target="_blank">OPENDIME</a>, and the <a href="https://blockclockmini.com/" target="_blank">BLOCKCLOCK MINI</a> (to ensure one never loses track of <a href="https://twitter.com/moscowTimeBot/" target="_blank">Moscow time</a> :p).</p>
@@ -1532,7 +1532,7 @@
 		<item>
 			<title><![CDATA[#13 Gigi: The Future of Value]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="33"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="33"/>
 				<podcast:valueRecipient name="Gigi (Guest)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="33"/>
 			</podcast:value>
 			<description><![CDATA[<p>For our first episode of the year and season, we thought it would be fun to bring <a href="https://twitter.com/dergigi" target="_blank">Gigi</a> back on for a discussion about what the team has been working on, highlights and developments from Season 1, some thoughts around the evolution of the <a href="https://dergigi.com/2021/12/30/the-freedom-of-value/" target="_blank">value4value</a> model, and our focus for the upcoming year.</p>
@@ -1594,7 +1594,7 @@
 		<item>
 			<title><![CDATA[#12 - Cory Klippsten: Building a Bitcoin Company for Bitcoiners, by Bitcoiners]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/coryklippsten" target="_blank">Cory Klippsten</a>, founder and CEO of <a href="https://www.swanbitcoin.com/" target="_blank">Swan Bitcoin</a>, a popular US-based service for buying bitcoin.</p>
@@ -1654,7 +1654,7 @@
 		<item>
 			<title><![CDATA[#11 - Steve Barbour: The Solution Is to Plug in More ASICs]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>For this episode, our guest is <a href="https://twitter.com/SGBarbour" target="_blank">Steve Barbour</a>, founder and CEO of <a href="https://www.upstreamdata.ca/" target="_blank">Upstream Data</a>.</p>
@@ -1716,7 +1716,7 @@
 		<item>
 			<title><![CDATA[#10 - David Bailey: Celebrating Bitcoin Culture]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>This episode's guest is <a href="https://twitter.com/DavidFBailey" target="_blank">David Bailey</a>, CEO of BTC Inc., the company behind <a href="https://bitcoinmagazine.com/" target="_blank">Bitcoin Magazine</a>, <a href="https://b.tc/conference" target="_blank">The Bitcoin Conference</a>, and several other brands in the Bitcoin ecosystem.</p>
@@ -1776,7 +1776,7 @@
 		<item>
 			<title><![CDATA[#09 - Adam Curry: Can't Stop the Signal]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 				<podcast:valueRecipient name="Lightning Podcast Charity Fund" type="node" address="033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500" customKey="112111100" customValue="wal_SV5Uf4N3n5Xsc4" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is legendary broadcaster turned podcaster <a href="https://twitter.com/adamcurry/" target="_blank">Adam Curry</a>.</p>
@@ -1845,7 +1845,7 @@
 			<title><![CDATA[#08 - Preston Pysh: A Once in a Millennium Opportunity]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/PrestonPysh/" target="_blank">Preston Pysh</a>, co-creator of <a href="https://www.theinvestorspodcast.com/" target="_blank"><em>The Investor's Podcast Network</em></a>, one of the top global podcast brands for financial education.</p>
 <p>While his podcast network covers the goings-on in finance, investing, and economics broadly, Preston has more recently focused exclusively on Bitcoin. He is now hosting a weekly discussion with the top entrepreneurs, authors, and investors in this rapidly growing ecosystem.</p>
@@ -1907,7 +1907,7 @@
 			<title><![CDATA[#07 - Dhruv Bansal: Bitcoin-Native Financial Services w/ Unchained Capital]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/dhruvbansal" target="_blank">Dhruv Bansal</a>, co-founder and CSO at <a href="https://unchained.com/" target="_blank">Unchained Capital</a>. Unchained is a bitcoin-native financial services company that builds products to help individuals and organizations to better custody and hodl their bitcoin.</p>
 <p>Crucial to this is their focus on collaborative custody using multisig, which allows them to offer robust key management solutions, transparent bitcoin collateralized loans, retirement and inheritance planning, and likely much more in the future.</p>
@@ -1969,7 +1969,7 @@
 			<title><![CDATA[#06 - Whit Gibbs: Now Everyone Can Mine Bitcoin]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/BitcoinBroski" target="_blank">Whit Gibbs</a>, co-founder, and CEO of <a href="https://compassmining.io/" target="_blank">Compass Mining</a>.</p>
 <p>According to their website, "Compass is a Bitcoin-first company, on a mission to support the decentralized growth of hashrate and strengthen network security, by helping more people learn, explore and mine Bitcoin."</p>
@@ -2033,7 +2033,7 @@
 			<title><![CDATA[#05 - Roy Sheinfeld: The Interface of the Peer to Peer Lightning Economy w/ Breez]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest on Closing the Loop is <a href="https://medium.com/@kingonly" target="_blank">Roy Sheinfeld</a>. Roy is the CEO and Co-Founder of <a href="https://breez.technology/" target="_blank">Breez</a>, a mobile app that aspires to be 'The interface of the peer to peer lightning economy.'</p>
 <p>Roy and his team have taken a nascent, though still largely intimidating technology and abstracted away much of the complexity so that the average user can begin to interact with it and leverage the tremendous value which the lightning network increasingly represents.</p>
@@ -2097,7 +2097,7 @@
 			<title><![CDATA[#04 - Daniel Buchner: Decentralized Identity on Bitcoin w/ Microsoft's ION]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest on Closing the Loop is <a href="https://twitter.com/csuwildcat" target="_blank">Daniel Buchner</a>. Daniel is the Senior Product Manager for Decentralized Identity at Microsoft, which in March of 2021 culminated in the launch of <a href="https://identity.foundation/ion/" target="_blank">ION</a>.</p>
 <p>ION is an open, public, permissionless Layer 2 Decentralized Identifier network that runs atop the Bitcoin <a href="https://dergigi.com/2021/01/14/bitcoin-is-time/" target="_blank">timechain</a>.</p>
@@ -2161,7 +2161,7 @@
 			<title><![CDATA[#03 - Harry Sudock: Bitcoin Mining at GRIID, the Evolution of Energy Production, and Human Flourishing]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
 				<podcast:valueRecipient name="Human Rights Foundation (Donations)" type="node" address="03bbc38579cf51c6a098d1459371e1c99f26ddf330a76e683b7d485999a9ce48c7" split="90"/>
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="10"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="10"/>
 			</podcast:value>
 			<description><![CDATA[<p>Today's guest is <a href="https://twitter.com/harry_sudock" target="_blank">Harry Sudock</a>, VP of Strategy at <a href="https://www.griid.com/" target="_blank">GRIID</a>, a company that procures<strong> </strong>low-cost, renewable energy<strong> </strong>to build, manage, and operate a growing portfolio of vertically-integrated bitcoin mining facilities.</p>
 <p>Harry is incredibly passionate and knowledgeable about the bitcoin mining industry and extremely dedicated to the cause of Bitcoin generally.</p>
@@ -2224,7 +2224,7 @@
 		<item>
 			<title><![CDATA[#02 - Paul Itoi: Stakwork, Sphinx Chat, and the Bitcoin Lightning Economy]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="50"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="50"/>
 				<podcast:valueRecipient name="Paul Itoi (Guest)" type="node" address="03a9a8d953fe747d0dd94dd3c567ddc58451101e987e2d2bf7a4d1e10a2c89ff38" split="50"/>
 			</podcast:value>
 			<description><![CDATA[<p><a href="https://twitter.com/paulitoi" target="_blank">Paul Itoi</a> is the founder and CEO of <a href="https://stakwork.com/" target="_blank">Stakwork</a> and has been a tech entrepreneur since the mid-nineties. In his spare time, Paul is also one of the driving forces behind the open-source, lightning-powered chat-app, called <a href="https://sphinx.chat/" target="_blank">Sphinx</a>. As Paul puts it, Stakwork pays the bills, but Sphinx just needed to exist, so they built it.</p>
@@ -2288,7 +2288,7 @@
 		<item>
 			<title><![CDATA[#01 - Gigi: Introduction to Closing the Loop]]></title>
 			<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-				<podcast:valueRecipient name="John (Host)" type="node" address="02bcbf805f656429fc2ccda34236b627b3d1b129e1b46e61ffffa90ec0b4b3d7cb" split="33"/>
+				<podcast:valueRecipient name="John (Host)" type="node" address="02a9cd2bca29dd7e29bdfdf485a8e78b8ccf9327517afa03a59be8f62a58792e1b" split="33"/>
 				<podcast:valueRecipient name="Gigi (Guest)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="33"/>
 				<podcast:valueRecipient name="Badders (Audio Engineer)" type="node" address="021ce28b653fcb00d6e2e0aee00dba8cb1e20be90415bec44037f908cd869d9f88" split="33"/>
 			</podcast:value>
